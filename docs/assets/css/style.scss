@@ -2,14 +2,30 @@
 ---
 
 @import "{{ site.theme }}";
+@mixin background-2x($path, $ext: "png", $w: auto, $h: auto, $pos: left top, $repeat: no-repeat) {
+
+  $at1x_path: "#{$path}.#{$ext}";
+  $at2x_path: "#{$path}@2x.#{$ext}";
+
+  background-image: url("#{$at1x_path}");
+  background-size: $w $h;
+  background-position: $pos;
+  background-repeat: $repeat;
+
+  @media all and (-webkit-min-device-pixel-ratio : 1.5),
+  all and (-o-min-device-pixel-ratio: 3/2),
+  all and (min--moz-device-pixel-ratio: 1.5),
+  all and (min-device-pixel-ratio: 1.5) {
+    background-image: url("#{$at2x_path}");
+  }
+}
 body {
   color: #373737;
   background: #fafafa;
 }
 
  #header_wrap {
-   background-image: url('/images/inspire-helsinki-2019-banner.png');
-   background-repeat: no-repeat;
+   @include background-2x( '/images/inspire-helsinki-2019-banner', 'png', 600px);
    background-color: white;
 
    .inner {
