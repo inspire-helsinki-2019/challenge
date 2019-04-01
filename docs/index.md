@@ -1,6 +1,7 @@
 ---
 layout: "default"
 title: "Inspire Helsinki 2019 Data Challenge"
+description: "Beat the other teams on a data challenge of your choosing in September 2019"
 ---
 # Inspire Helsinki 2019 Data Challenge
 
