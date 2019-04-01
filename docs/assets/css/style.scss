@@ -2,3 +2,31 @@
 ---
 
 @import "{{ site.theme }}";
+ #header_wrap {
+   background-image: url(https://challenge.inspire-helsinki-2019.fi/images/inspire-helsinki-2019-banner.png);
+   background-repeat: no-repeat;
+   background-color: white;
+
+   .inner {
+     padding-bottom: 88px;
+   }
+ }
+
+ #main_contnt_wrap {
+   background:
+ }
+
+ #footer_wrap {
+   background: #ffffff;
+ }
+
+ footer {
+   p {
+     color: #797979;
+   }
+
+   a {
+     color: black;
+     text-decoration: none;
+   }
+ }
