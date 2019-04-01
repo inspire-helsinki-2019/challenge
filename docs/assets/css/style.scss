@@ -2,6 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+body {
+  color: #373737;
+  background: #fafafa;
+}
+
  #header_wrap {
    background-image: url('/images/inspire-helsinki-2019-banner.png');
    background-repeat: no-repeat;
