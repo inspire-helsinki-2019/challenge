@@ -7,11 +7,6 @@ body {
   background: #fafafa;
 }
 
-
-.inner {
-  max-width: 58em;
-}
-
  #header_wrap {
    background-image: url('/images/inspire-helsinki-2019-banner.png');
    background-repeat: no-repeat;
@@ -26,6 +21,10 @@ body {
    background: #fafafa;
    border-top: 1px solid #0066a7;
    border-bottom: 1px solid #0066a7;
+
+   .inner {
+     max-width: 58em;
+   }
 }
 
  #footer_wrap {
