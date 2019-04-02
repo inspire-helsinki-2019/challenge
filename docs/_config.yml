@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+url: "https://challenge.inspire-helsinki-2019.fi" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
