@@ -24,13 +24,17 @@ body {
   background: #fafafa;
 }
 
+.inner {
+  position: inherit;
+}
+
  #header_wrap {
    @include background-2x( '/images/inspire-helsinki-2019-banner', 'png', 600px);
    background-color: white;
+   position:relative;
 
    .inner {
      padding-bottom: 83px;
-     position:relative;
 
      #home .button {
        position:absolute;
