@@ -5,8 +5,16 @@ description: "Beat the other teams on a data challenge of your choosing in Septe
 ---
 # Inspire Helsinki 2019 Data Challenge
 
-The Helsinki 2019 INSPIRE event is organizing data challenges for practical uses of spatial data in the domains of sea, weather and built environment. With the recent evolution of spatial data delivery technologies like WFS 3.0, vector tiles and simpler data formats for INSPIRE, the geospatial field is reaching out to a wider audience of developers to enrich applications and processes with spatial data.
+## Call for challenges
+Call for challenges has ended on May 3rd. Thank you for submitting proposals!
+We are working with challenge ideas and final challenges will be announced in the beginning of June.
 
-The challenges are not limited to INSPIRE datasets, your team is free to use any data relevant to the challenges. Teams will produce applications, proofs of concepts, visualizations, presentations, demos over September and will present their results in October at the INSPIRE event in Helsinki. During the challenge month, the event organizers and challenge partners will help you with the datasets, tools and services to ensure successful results.
 
-Stay tuned, more information coming soon!
+## Description
+Inspire Helsinki 2019 will host challenges for practical uses of spatial data in the domains of sea, weather and cities.
+
+With the recent evolution of spatial data delivery technologies like WFS 3.0, vector tiles and simpler data formats for INSPIRE, the geospatial field is reaching out to a wider audience of developers to enrich applications and processes with spatial data. The challenges will not be strictly limited to INSPIRE data, they can take full advantage of all data relevant to the challenges.
+
+Teams will produce applications, proofs of concepts, visualisations, presentations and demos by the end of September and will present the results in October in Helsinki. During the challenge month, the event organisers and challenge partners will support the teams, help provide data, tools and services to ensure successful results.
+
+![Challenge timeline](images/challenge-timeline.png)
