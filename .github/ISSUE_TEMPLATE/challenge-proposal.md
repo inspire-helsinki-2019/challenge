@@ -2,7 +2,7 @@
 name: Challenge proposal
 about: For submitting the final challenge proposals
 title: Name of my proposed Inspire Helsinki 2019 challenge
-labels: submitted challenge
+labels: challenge partners, submitted challenge
 assignees: ''
 
 ---
