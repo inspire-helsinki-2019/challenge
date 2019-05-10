@@ -5,7 +5,7 @@ description: "Beat the other teams on a data challenge of your choosing in Septe
 page: "home"
 ---
 # Inspire Helsinki 2019 Data Challenge
-Inspire Helsinki 2019 will host challenges for practical uses of spatial data in the domains of sea, weather and cities.
+[Inspire Helsinki 2019](https://www.inspire-helsinki-2019.fi/) will host challenges for practical uses of spatial data in the domains of sea, weather and cities.
 
 With the recent evolution of spatial data delivery technologies like WFS 3.0, vector tiles and simpler data formats for INSPIRE, the geospatial field is reaching out to a wider audience of developers to enrich applications and processes with spatial data. The challenges will not be strictly limited to INSPIRE data, they can take full advantage of all data relevant to the challenges.
 
