@@ -1,6 +1,6 @@
 ---
 name: Challenge proposal
-about: For submitting the final challenge proposals
+about: Template for submitting challenge proposals
 title: Name of my proposed Inspire Helsinki 2019 challenge
 labels: challenge partners, submitted challenge
 assignees: ''
@@ -51,6 +51,11 @@ assignees: ''
 - How does your challange relate to the Inspire Helsinki 2019 themes of sea/oceans, weather/outdoor conditions or cities/urban living?
 - How does your challenge relate to INSPIRE (it does not have to), European spatial datasets, of spatial data infrastuctures?
 - Examples of use cases, applications or previous hackathons/challenges your datasets and/or APIs have already been used for before
+
+## Co-operation with other Challenge Partners 
+In order to create 3 to 4 high-quality final challenges the organisers may suggest that some of the Partners submit a combined final challenge.
+- Are you interested in hosting your challenge together with one or more of the other challenge partners or submitting a common proposal?
+- If requested, are you able to provide access to your offered datasets, APIs or tools in challenge proposed by another submitter?
 
 ## Submitting organisations
 - Name(s) and contact details of the submitting organisation(s)
