@@ -7,7 +7,7 @@
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-          {% if page == 'home' %}
+          {% if page.page == 'home' %}
           <li class="nav-item active">
             <a class="nav-link" href="/">Home<span class="sr-only">(current)</span></a>
           </li>
@@ -16,7 +16,7 @@
             <a class="nav-link" href="/">Home</a>
           </li>
           {% endif %}
-          {% if page == 'callForChallenges' %}
+          {% if page.page == 'callForChallenges' %}
           <li class="nav-item active">
             <a class="nav-link" href="./callForChallenges.html">Call for challenges<span class="sr-only">(current)</span></a>
           </li>
