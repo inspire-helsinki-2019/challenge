@@ -29,12 +29,12 @@ body {
 }
 
  #header_wrap {
-   @include background-2x( '/images/inspire-helsinki-2019-banner', 'png', 1890px);
+   @include background-2x( '/images/inspire-helsinki-2019-banner', 'png', 1200px);
    background-color: white;
    position:relative;
 
    .inner {
-     padding-bottom: 83px;
+     padding-bottom:172px;
 
      #home .button {
        position:absolute;

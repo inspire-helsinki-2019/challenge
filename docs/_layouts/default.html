@@ -11,7 +11,7 @@
 {% seo %}
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color:#2AABE2;">
+    <nav class="navbar sticky-top navbar-expand-lg navbar-dark" style="background-color:#2AABE2;">
       <a class="navbar-brand" href="#">Inspire Helsinki 2019 Data Challenge</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -20,24 +20,30 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#">Data Challenge<span class="sr-only">(current)</span></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://www.inspire-helsinki-2019.fi/">Inspire Helsinki 2019 main page</a>
+            <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
           </li>
           <!--
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Dropdown
+              Pick your challenge
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">Action</a>
-              <a class="dropdown-item" href="#">Another action</a>
+              <a class="dropdown-item" href="#">Challenge 1</a>
+              <a class="dropdown-item" href="#">Challenge 2</a>
+              <a class="dropdown-item" href="#">Challenge 3</a>
+              <a class="dropdown-item" href="#">Challenge 4</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#">Something else here</a>
+              <a class="dropdown-item" href="#">Register your team!</a>
             </div>
           </li>
           -->
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.inspire-helsinki-2019.fi/">Inspire Helsinki 2019 main page</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://github.com/inspire-helsinki-2019/challenge">Github</a>
+          </li>
+
           <!--
           <li class="nav-item">
             <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
@@ -51,9 +57,6 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           <a id="home" href="{{ site.home }}"><div class="button"></div></a>
-          {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
-          {% endif %}
         </header>
     </div>
 
