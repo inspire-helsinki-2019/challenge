@@ -1,8 +1,8 @@
 ---
 layout: "default"
 title: "Inspire Helsinki 2019 Data Challenge"
-page: "home"
 description: "Beat the other teams on a data challenge of your choosing in September 2019"
+page: "home"
 ---
 # Inspire Helsinki 2019 Data Challenge
 Inspire Helsinki 2019 will host challenges for practical uses of spatial data in the domains of sea, weather and cities.
