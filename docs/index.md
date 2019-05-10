@@ -1,16 +1,10 @@
 ---
 layout: "default"
 title: "Inspire Helsinki 2019 Data Challenge"
+page: "home"
 description: "Beat the other teams on a data challenge of your choosing in September 2019"
 ---
 # Inspire Helsinki 2019 Data Challenge
-
-## Call for challenges
-Call for challenges has ended on May 3rd. Thank you for submitting proposals!
-We are working with challenge ideas and final challenges will be announced in the beginning of June.
-
-
-## Description
 Inspire Helsinki 2019 will host challenges for practical uses of spatial data in the domains of sea, weather and cities.
 
 With the recent evolution of spatial data delivery technologies like WFS 3.0, vector tiles and simpler data formats for INSPIRE, the geospatial field is reaching out to a wider audience of developers to enrich applications and processes with spatial data. The challenges will not be strictly limited to INSPIRE data, they can take full advantage of all data relevant to the challenges.
