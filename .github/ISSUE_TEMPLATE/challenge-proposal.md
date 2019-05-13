@@ -33,7 +33,7 @@ assignees: ''
 
 ## Offered personal resources
 - How much expert working time per week can you offer to the teams working with your challenge, datasets and APIs during the work on the challenge?
-- Desired form of communicating with your data/service experts?
+- Desired form of communicating with the teams?
 
 ## Offered or suggested tools
 - tools for data processing, storing or visualisation (free, or ones you can provide licenses for the duration of the challenge)
