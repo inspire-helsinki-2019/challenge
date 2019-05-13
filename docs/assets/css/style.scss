@@ -69,7 +69,9 @@ body {
     list-style-type: none;
     position: relative;
 
-    :before {
+
+
+    &:before {
         content: ' ';
         background: #d4d9df;
         display: inline-block;
@@ -84,7 +86,7 @@ body {
         margin: 20px 0;
         padding-left: 20px;
 
-        :before {
+        &:before {
             content: ' ';
             background: white;
             display: inline-block;
@@ -95,6 +97,12 @@ body {
             width: 20px;
             height: 20px;
             z-index: 400;
+        }
+
+        h5 {
+          color: #007bff;
+          font-size: 1rem;
+          font-weight: normal;
         }
     }
 }
