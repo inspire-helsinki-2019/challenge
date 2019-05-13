@@ -84,7 +84,8 @@ body {
 
     li {
         margin: 20px 0;
-        padding-left: 20px;
+        padding-left: 1.4rem;
+        clear:both;
 
         &:before {
             content: ' ';
@@ -98,13 +99,27 @@ body {
             height: 20px;
             z-index: 400;
         }
+        &.passed {
+            &:before {
+              border: 3px solid #c1c1c1;
+            }
+
+            h5 {
+              color: #c1c1c1;
+            }
+            p {
+              color: #969696;
+            }
+         }
 
         h5 {
           color: #007bff;
           font-size: 1rem;
           font-weight: normal;
           display: inline;
-          padding-left: 0.5rem;
+        }
+        p {
+          margin-top: 0px;
         }
 
         span {
