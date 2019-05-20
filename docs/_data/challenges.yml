@@ -1,13 +1,12 @@
-challenge1:
-  title: "Challenge 1"
+- title: "Challenge 1"
   summary: "Description for challenge 1. This can be about the size of this paragraph but not much more"
   thumbnail: "foo.png"
   page: "challenge1.html"
   jumbotron:
     bgimage: "bar.png"
     text: "Jumbo text for challenge 1"
-challenge2:
-  title: "Challenge 2"
+
+- title: "Challenge 2"
   summary: "Description for challenge 2. This can be about the size of this paragraph but not much more"
   thumbnail: "foo.png"
   page: "challenge2.html"

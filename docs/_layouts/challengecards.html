@@ -9,8 +9,8 @@
             {% for challenge in site.data.challenges %}
             <div class="col-sm-3">
               <div class="card">
-                {% if challenge.imageurl %}
-                <img src="{{ challenge.imageurl }}" class="card-img-top" />
+                {% if challenge.thumbnail %}
+                <img src="{{ challenge.thumbnail }}" class="card-img-top" />
                 {% endif %}
                 <div class="card-body">
                   {% if challenge.title %}
