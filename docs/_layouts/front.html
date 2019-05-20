@@ -10,7 +10,7 @@
               <h4>Timeline</h4>
               <ul class="timeline">
                 {% for item in site.data.timeline %}
-                {% if item.passed %}<li class="passed">{% else ‰}<li>{% endif %}
+                {% if item.passed %}<li class="passed">{% else %}<li>{% endif %}
                   <h5>{{ item.title }}</h5>
                   <span class="float-right">{{ item.date }}</span>
                   {% if item.text %}<p>{{ item.text }}</p>{% endif %}
