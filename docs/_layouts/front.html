@@ -9,56 +9,17 @@
             <div class="col-md-9">
               <h4>Timeline</h4>
               <ul class="timeline">
-                <li class="passed">
-                  <h5>Deadline for Call for Challenges</h5>
-                  <span class="float-right">3rd May 2019</span>
-                  <p></p>
+                {% for item in site.data.timeline }
+                <li {% if item.passed %} class="passed"{% endif %}>
+                  <h5>{{ item.title }}</h5>
+                  <span class="float-right">{{ item.date }}</span>
+                  {% if item.text %}<p>{{ item.text }}</p>{% endif %}
                 </li>
-                <li>
-                  <h5>Deadline for the final challenge proposals</h5>
-                  <span class="float-right">20th May 2019</span>
-                  <p></p>
-                </li>
-                <li>
-                  <h5>Final challenges announced</h5>
-                  <span class="float-right">End of May 2019</span>
-                  <p></p>
-                </li>
-                <li>
-                  <h5>Registration of the challenge teams begins</h5>
-                  <span class="float-right">Early June 2019</span>
-                  <p></p>
-                </li>
-                <li>
-                  <h5>Introductionary webinars for each data challenge</h5>
-                  <span class="float-right">June - July 2019</span>
-                  <p></p>
-                </li>
-                <li>
-                  <h5>Registration of the challenge teams closes</h5>
-                  <span class="float-right">August 2019</span>
-                  <p></p>
-                </li>
-                <li>
-                  <h5>Teams work on the challenges</h5>
-                  <span class="float-right">September 2019</span>
-                  <p></p>
-                </li>
-                <li>
-                  <h5>Deadline for the challenge team result submissions</h5>
-                  <span class="float-right">31st September 2019</span>
-                  <p></p>
-                </li>
-                <li>
-                  <h5>Inspire Helsinki 2029 event</h5>
-                  <span class="float-right">22nd - 24th October 2019</span>
-                  <p>Data challenge winners announced</p>
-                </li>
+                {% endfor %}
               </ul>
             </div>
           </div>
         </div>
       </section>
-
     </div>
 {% include footer.html %}
