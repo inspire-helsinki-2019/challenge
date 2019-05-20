@@ -1,0 +1,33 @@
+{% include header.html title="Inspire Helsinki 2019 Data Challenge" %}
+    {% include navbar.html %}
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        {{ content }}
+        <div class="container mt-3 mb-5">
+          <div class="row">
+            {%  for card in page.cards %}
+            <div class="col-sm-3">
+              <div class="card">
+                {% if card.imageurl %}
+                <img src="{{ card.imageurl }}" class="card-img-top" />
+                {% endif %}
+                <div class="card-body">
+                  {% if card.title %}
+                  <h5 class="card-title">{{ card.title }}</h5>
+                  {% endif %}
+                  {% if card.text %}
+                  <p class="card-text">{{ card.text }}</p>
+                  {% endif %}
+                  {% if card.link %}
+                  <a href="{{ card.link }}" class="btn btn-primary">Learn more</a>
+                  {% endif %}
+                </div>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </section>
+    </div>
+{% include footer.html %}
