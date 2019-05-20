@@ -1,5 +1,5 @@
 ---
-layout: "challenge_cards"
+layout: "challengecards"
 title: "Inspire Helsinki 2019 Challenges"
 description: "Pick your challenge"
 page: "challenges"
