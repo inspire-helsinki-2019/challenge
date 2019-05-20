@@ -1,0 +1,53 @@
+{% include header.html title="Inspire Helsinki 2019 Data Challenge" %}
+    {% include navbar.html %}
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        {{ content }}
+        <div class="container mt-3 mb-5">
+          <div class="row">
+            <div class="col-sm-4">
+              <div class="card">
+                <img src="{{ include.challenge1.imageurl }}" class="card-img-top" alt="{{ include.challenge1.title }}"/>
+                <div class="card-body">
+                  <h5 class="card-title">{{ include.challenge1.title }}</h5>
+                  <p class="card-text">{{ include.challenge1.text }}</p>
+                  <a href="{{ include.challenge1.link }}" class="btn btn-primary">Learn more</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4">
+              <div class="card">
+                <img src="{{ include.challenge2.imageurl }}" class="card-img-top" alt="{{ include.challenge2.title }}"/>
+                <div class="card-body">
+                  <h5 class="card-title">{{ include.challenge2.title }}</h5>
+                  <p class="card-text">{{ include.challenge2.text }}</p>
+                  <a href="{{ include.challenge2.link }}" class="btn btn-primary">Learn more</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4">
+              <div class="card">
+                <img src="{{ include.challenge3.imageurl }}" class="card-img-top" alt="{{ include.challenge3.title }}"/>
+                <div class="card-body">
+                  <h5 class="card-title">{{ include.challenge3.title }}</h5>
+                  <p class="card-text">{{ include.challenge3.text }}</p>
+                  <a href="{{ include.challenge3.link }}" class="btn btn-primary">Learn more</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4">
+              <div class="card">
+                <img src="{{ include.challenge4.imageurl }}" class="card-img-top" alt="{{ include.challenge4.title }}"/>
+                <div class="card-body">
+                  <h5 class="card-title">{{ include.challenge4.title }}</h5>
+                  <p class="card-text">{{ include.challenge4.text }}</p>
+                  <a href="{{ include.challenge4.link }}" class="btn btn-primary">Learn more</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+{% include footer.html %}
