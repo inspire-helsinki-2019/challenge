@@ -20,15 +20,15 @@
       {% else %}
       <li class="nav-item dropdown">
       {% endif %}
-        <a class="nav-link dropdown-toggle" href="{% post_url challenges %}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle" href="challenges.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Pick your challenge
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           {% for challenge in site.data.challenges %}
-          <a class="dropdown-item" href="{% post_url challenge.id %}">{{ challenge.title }}</a>
+          <a class="dropdown-item" href="/{{ challenge.id }}.html">{{ challenge.title }}</a>
           {% endfor %}
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="{% post_url registerTeam %}">Register your team!</a>
+          <a class="dropdown-item" href="./register.html">Register your team!</a>
         </div>
       </li>
       <li class="nav-item">

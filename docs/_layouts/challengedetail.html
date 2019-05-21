@@ -1,6 +1,6 @@
 {% include header.html title="Inspire Helsinki 2019 Data Challenge" %}
     {% include navbar.html %}
-    {% assign _challenges = data.challenges | where: "id", page.page %}
+    {% assign _challenges = site.data.challenges | where: "id", page.page %}
     {% assign challenge = _challenges.first %}
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
