@@ -5,7 +5,7 @@
   </button>
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
+    <ul class="navbar-nav mr-auto d-flex">
       {% if page.page == 'home' %}
       <li class="nav-item active">
         <a class="nav-link" href="/">Home<span class="sr-only">(current)</span></a>
@@ -16,22 +16,13 @@
       </li>
       {% endif %}
       {% if page.page == 'challenges' %}
-      <li class="nav-item active dropdown">
+      <li class="nav-item active">
       {% else %}
-      <li class="nav-item dropdown">
-      {% endif %}
-        <a class="nav-link dropdown-toggle" href="challenges.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Pick your challenge
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          {% for challenge in site.data.challenges %}
-          <a class="dropdown-item" href="/{{ challenge.id }}.html">{{ challenge.title }}</a>
-          {% endfor %}
-          <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="./register.html">Register your team!</a>
-        </div>
-      </li>
       <li class="nav-item">
+      {% endif %}
+        <a class="nav-link" href="./challenges.html">Pick your challenge</a>
+      </li>
+      <li class="nav-item mr-auto">
         <a class="nav-link" href="https://www.inspire-helsinki-2019.fi/">Inspire Helsinki 2019 event</a>
       </li>
       <li class="nav-item">
