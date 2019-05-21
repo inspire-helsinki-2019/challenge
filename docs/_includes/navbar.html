@@ -1,5 +1,5 @@
 <nav class="navbar sticky-top navbar-expand-lg navbar-dark" style="background-color:#2AABE2;">
-  <span class="navbar-brand">Data Challenge</span>
+
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -8,21 +8,17 @@
     <ul class="navbar-nav">
       {% if page.page == 'home' %}
       <li class="nav-item active">
-        <a class="nav-link" href="/">Home<span class="sr-only">(current)</span></a>
-      </li>
       {% else %}
       <li class="nav-item">
-        <a class="nav-link" href="/">Home</a>
-      </li>
       {% endif %}
+        <a class="nav-link" href="/"><i class="fas fa-home"></i>&nbsp;Home</a>
+      </li>
       {% if page.page == 'challenges' %}
       <li class="nav-item active dropdown">
       {% else %}
       <li class="nav-item dropdown">
       {% endif %}
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Pick a challenge
-        </a>
+        <a class="nav-link dropdown-toggle disabled" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-binoculars"></i>&nbsp;Challenges</a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           {% for challenge in site.data.challenges %}
             {% if challenge.enabled %}
@@ -31,19 +27,22 @@
           {% endfor %}
         </div>
       </li>
-      <li class="nav-item disabled">
-        <a class="nav-link" href="./register.html">Register your team</a>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="./register.html"><i class="fas fa-sign-in-alt"></i>&nbsp;Registration</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://spectrum.chat/inspire-helsinki?tab=posts"><i class="far fa-comments"></i>&nbsp;chat</a>
+        <a class="nav-link disabled" href="./tools.html"><i class="fas fa-tools"></i>&nbsp;Tools</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://spectrum.chat/inspire-helsinki"><i class="far fa-comments"></i>&nbsp;Discussions</a>
       </li>
     </ul>
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
-        <a class="nav-link" href="https://www.inspire-helsinki-2019.fi/">Inspire Helsinki 2019 event</a>
+        <a class="nav-link" href="https://www.inspire-helsinki-2019.fi/"><i class="fas fa-info-circle"></i>&nbsp;Inspire Helsinki 2019 event</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://github.com/inspire-helsinki-2019/challenge"><i class="fab fa-github"></i></a>
+        <a class="nav-link" href="https://github.com/inspire-helsinki-2019/challenge"><i class="fab fa-github"></i>&nbsp;Code</a>
       </li>
       <!--
       <li class="nav-item">
