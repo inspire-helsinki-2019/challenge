@@ -4,8 +4,8 @@
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
+  <div class="collapse navbar-collapse justify-content-stretch" id="navbarSupportedContent">
+    <ul class="navbar-nav">
       {% if page.page == 'home' %}
       <li class="nav-item active">
         <a class="nav-link" href="/">Home<span class="sr-only">(current)</span></a>
@@ -16,12 +16,12 @@
       </li>
       {% endif %}
       {% if page.page == 'challenges' %}
-      <li class="nav-item active dropdown disabled">
+      <li class="nav-item active dropdown">
       {% else %}
-      <li class="nav-item dropdown disabled">
+      <li class="nav-item dropdown">
       {% endif %}
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Pick your challenge
+          Pick a challenge
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           {% for challenge in site.data.challenges %}
@@ -29,15 +29,21 @@
             <a class="dropdown-item" href="/{{ challenge.id }}.html">{{ challenge.title }}</a>
             {% endif %}
           {% endfor %}
-          <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="./register.html">Register your team!</a>
         </div>
       </li>
+      <li class="nav-item disabled">
+        <a class="nav-link" href="./register.html">Register your team</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://spectrum.chat/inspire-helsinki?tab=posts"><i class="far fa-comments"></i>&nbsp;chat</a>
+      </li>
+    </ul>
+    <ul class="navbar-nav ml-auto">
       <li class="nav-item">
         <a class="nav-link" href="https://www.inspire-helsinki-2019.fi/">Inspire Helsinki 2019 event</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://github.com/inspire-helsinki-2019/challenge">Github</a>
+        <a class="nav-link" href="https://github.com/inspire-helsinki-2019/challenge"><i class="fab fa-github"></i></a>
       </li>
       <!--
       <li class="nav-item">
