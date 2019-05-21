@@ -1,9 +1,11 @@
 - title: "Challenge 1"
   id: challenge1
-  summary: "Description for challenge 1. This can be about the size of this paragraph but not much more"
+  lead: "Headline text for the Challenge 1"
+  summary: "Summary for Challenge 1. This can be about the size of this paragraph but not much more"
   enabled: false
 
 - title: "Challenge 2"
   id: challenge2
-  summary: "Description for challenge 2. This can be about the size of this paragraph but not much more"
+  lead: "Headline text for the Challenge 2"
+  summary: "Summary for Challenge 2. This can be about the size of this paragraph but not much more"
   enabled: false

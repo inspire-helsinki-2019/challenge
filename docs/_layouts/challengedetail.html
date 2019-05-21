@@ -6,14 +6,16 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {% if page.jumbotronImage %}
-        <div class="jumbotron jumbotron-fluid" style="background-image: url('{{ page.jumbotronImage }}');background-size: cover;">
+        <div class="jumbotron" style="background-image: url('{{ page.jumbotronImage }}');background-size: cover;">
         {% else %}
-        <div class="jumbotron jumbotron-fluid">
+        <div class="jumbotron">
         {% endif %}
-          <div class="container">
-            <h1 class="display-4">{{ challenge.title }}</h1>
-            <p class="lead">{{ challenge.summary }}</p>
-          </div>
+          <h1 class="display-4">{{ challenge.title }}</h1>
+          <p class="lead">{{ challenge.lead }}</p>
+          {% if challenge.summary %}
+          <hr class="my-4">
+          <p>{{ challenge.summary }}</p>
+          {% endif %}
         </div>
         {{ content }}
       </section>
