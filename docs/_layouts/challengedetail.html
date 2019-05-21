@@ -1,0 +1,21 @@
+{% include header.html title="Inspire Helsinki 2019 Data Challenge" %}
+    {% include navbar.html %}
+    {% assign _challenges = data.challenges | where: "id", page.page %}
+    {% assign challenge = _challenges.first %}
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        {% if page.jumbotronImage %}
+        <div class="jumbotron jumbotron-fluid" style="background-image: url('{{ page.jumbotronImage }}');background-size: cover;">
+        {% else %}
+        <div class="jumbotron jumbotron-fluid">
+        {% endif %}
+          <div class="container">
+            <h1 class="display-4">{{ challenge.title }}</h1>
+            <p class="lead">{{ challenge.summary }}</p>
+          </div>
+        </div>
+        {{ content }}
+      </section>
+    </div>
+{% include footer.html %}

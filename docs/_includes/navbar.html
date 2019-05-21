@@ -15,30 +15,22 @@
         <a class="nav-link" href="/">Home</a>
       </li>
       {% endif %}
-      {% if page.page == 'callForChallenges' %}
-      <li class="nav-item active">
-        <a class="nav-link" href="./callForChallenges.html">Call for challenges<span class="sr-only">(current)</span></a>
-      </li>
+      {% if page.page == 'challenges' %}
+      <li class="nav-item active dropdown">
       {% else %}
-      <li class="nav-item">
-        <a class="nav-link" href="./callForChallenges.html">Call for challenges</a>
-      </li>
-      {% endif %}
-      <!--
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      {% endif %}
+        <a class="nav-link dropdown-toggle" href="{% post_url challenges %}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Pick your challenge
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="./challenge1.html">Challenge 1</a>
-          <a class="dropdown-item" href="./challenge2.html">Challenge 2</a>
-          <a class="dropdown-item" href="./challenge3.html">Challenge 3</a>
-          <a class="dropdown-item" href="./challenge4.html">Challenge 4</a>
+          {% for challenge in site.data.challenges %}
+          <a class="dropdown-item" href="{% post_url challenge.id %}">{{ challenge.title }}</a>
+          {% endfor %}
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Register your team!</a>
+          <a class="dropdown-item" href="{% post_url registerTeam %}">Register your team!</a>
         </div>
       </li>
-      -->
       <li class="nav-item">
         <a class="nav-link" href="https://www.inspire-helsinki-2019.fi/">Inspire Helsinki 2019 event</a>
       </li>
