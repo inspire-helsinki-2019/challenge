@@ -48,6 +48,24 @@ body {
    }
 }
 
+.challenge {
+  .jumbotron {
+    background-color: #e6e6e6;
+
+    h1 {
+      border-radius: 10px;
+      padding: 0.5ex;
+      opacity: 0.8;
+    }
+
+    p {
+      border-radius: 10px;
+      padding: 2ex;
+      opacity: 0.8;
+      text-align: justify;
+    }
+  }
+}
  #footer_wrap {
    background: #ffffff;
 

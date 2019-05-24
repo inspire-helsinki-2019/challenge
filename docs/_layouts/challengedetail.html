@@ -3,21 +3,19 @@
     {% assign _challenges = site.data.challenges | where: "id", page.page %}
     {% assign challenge = _challenges.first %}
     <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
+    <div id="main_content_wrap" class="outer challenge">
       <section id="main_content" class="inner">
-        {% if page.jumbotronImage %}
-        <div class="jumbotron" style="background-image: url('{{ page.jumbotronImage }}');background-size: cover;">
-        {% else %}
-        <div class="jumbotron">
-        {% endif %}
-          <h1 class="display-4">{{ challenge.title }}</h1>
-          <p class="lead">{{ challenge.lead }}</p>
-          {% if challenge.summary %}
-          <hr class="my-4">
-          <p>{{ challenge.summary }}</p>
+          {% if page.jumbotronImage %}
+          <div class="jumbotron" style="background-image: url('./images/{{ page.jumbotronImage }}');background-size: cover;">
+          {% else %}
+          <div class="jumbotron">
           {% endif %}
-        </div>
-        {{ content }}
+            <h1 class="display-4 bg-dark text-light">{{ challenge.title }}</h1>
+          </div>
+          {% if challenge.summary %}
+          <div class="lead">{{ challenge.summary }}</div>
+          {% endif %}
+          {{ content }}
       </section>
     </div>
 {% include footer.html %}

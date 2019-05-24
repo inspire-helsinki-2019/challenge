@@ -1,11 +1,19 @@
-- title: "Challenge 1"
-  id: challenge1
-  lead: "Headline text for the Challenge 1"
-  summary: "Summary for Challenge 1. This can be about the size of this paragraph but not much more"
-  enabled: false
+- title: "Commuting 2.0"
+  id: commuting20
+  summary: "Quality of life is affected greatly by our usual day to day activities and how we commute to and from our place of work plays a big part. Fortunately, this chore has been made very easy by routing apps that use data and routing algorithms to tell us how to get from A to B. However, especially for bicycles, pedestrians, and other light traffic, there is a dimension overlooked by routing applications: conditions and weather. There is a wide array of observation and forecast data about our environment that can be used to provide a great service to commuters."
+  enabled: true
 
-- title: "Challenge 2"
-  id: challenge2
-  lead: "Headline text for the Challenge 2"
-  summary: "Summary for Challenge 2. This can be about the size of this paragraph but not much more"
-  enabled: false
+- title: "Let's make the most out of INSPIRE!"
+  id: mostOutOfINSPIRE
+  summary: "This challenge targets the improved exploitation of the INSPIRE infrastructure by limiting possible inefficiencies in the way in which data are being (i) encoded and/or (ii) exposed through network services by EU Member State data providers. The starting point for the work shall be a particular use case and limitations encountered (e.g. building a cross-border dataset, or using a specific dataset in a particular software product), instead of general issues."
+  enabled: true
+
+- title: "Find the best seaside vacation spot"
+  id: seasideVacationSpot
+  summary: "Develop solutions to identify the best location for a seaside vacation! It’s important to remember that vacationers want different things: some might want clear waters to dive while others want conditions suitable for ice fishing. In contrast, nobody wants to be around oil spills or illegal sewage dumps. Also, the planned vacation activities must themselves follow sustainable and responsible principles regarding the environment."
+  enabled: true
+
+- title: "An der schönen blauen Donau"
+  id: schonenBlauenDonau
+  summary: "Water and rail transport are more efficient than road transport in terms of CO2 emissions. Nonetheless, road transport still accounts for more than 75% of freight transport in Europe. Is there a way for European waterways and railways to be more used?"
+  enabled: true
