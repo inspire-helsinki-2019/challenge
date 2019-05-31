@@ -61,3 +61,5 @@ Note. WFS 3.0 implementation list is available in the [WFS/FES Github repository
 
 ## Submitting organisations
 Finnish Meteorological Institute, Vaisala and Spatineo: Roope Tervo (FMI), Jani Kettunen (Vaisala), Ilkka Rinne (Spatineo)
+
+[comment]: # <a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-primary btn-lg">Sign up your team now!</a>

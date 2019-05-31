@@ -1,6 +1,6 @@
 ---
 layout: "challengedetail"
-title: Inspire Helsinki 2019 Data Challenge - An der schönen blauen Donau"
+title: Inspire Helsinki 2019 Data Challenge - By the Beautiful Blue Danube"
 page: "schonenBlauenDonau"
 jumbotronImage: "aerial-shot-building-business-2226458.jpg"
 ---
@@ -52,3 +52,5 @@ TBD
 
 ## Submitting organisations
 AELER (Roman Heimgartner), WeTransform (Thorsten Reitz)
+
+[comment]: # <a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-primary btn-lg">Sign up your team now!</a>

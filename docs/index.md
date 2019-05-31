@@ -5,7 +5,8 @@ description: "Beat the other teams on a data challenge of your choosing in Septe
 page: "home"
 ---
 
-[comment]: # <a href="#" class="btn btn-info btn-lg">Team registration now open!</a>
+[comment]: # <a href="./signup.html" class="btn btn-info btn-lg">Team sign up now open!</a>
+
 # Inspire Helsinki 2019 Data Challenge
 
 [Inspire Helsinki 2019](https://www.inspire-helsinki-2019.fi/) will host challenges for practical uses of spatial data in the domains of sea, weather and cities.
