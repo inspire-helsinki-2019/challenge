@@ -4,7 +4,7 @@ title: "Inspire Helsinki 2019 Challenge - Team Sign-up"
 description: "Sign-up will open soon"
 page: "signup"
 ---
-# Sign-up to challenges
+# Sign up to challenges
 Teams have to sign up in order to to participate in the Inspire Helsinki 2019 Data Challenge.
 The first 10 teams to sign up are eligible for one (1) 100% discount code per team for the
 [Inspire Helsinki 2019 event](https://www.inspire-helsinki-2019.fi/) in Helsinki on 22nd - 24th October. After the
@@ -48,4 +48,4 @@ There are two means for finding people to team up with provided by the Inspire H
 the [Spectrum discussion forum](https://spectrum.chat/inspire-helsinki) and a
 [mailing list](https://link.webropolsurveys.com/S/F7B2F6F30E8DE049) for people interested in
 the Inspire Helsinki 2019 Data Challenge. The signed up teams may also still be looking for reinforcements, so please
-let them know what you can do and which challenge you would be interested in Spectrum channels. 
+let them know what you can do and which challenge you would be interested in Spectrum channels.
