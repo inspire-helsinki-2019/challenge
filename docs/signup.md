@@ -43,7 +43,7 @@ the challenge partners reserve a right to use the submitted material, including 
 Inspire Helsinki 2019 Data Challenge and the Inspire Helsinki 2019 event. The challenge teams are encouraged but not
 required to license their code and created datasets using an open source / open access license.
 
-## I'm interested, but don't yet have a team?
+## Interested, but don't yet have a team?
 There are two means for finding people to team up with provided by the Inspire Helsinki 2019 Data Challenge organisers:
 the [Spectrum discussion forum](https://spectrum.chat/inspire-helsinki) and a
 [mailing list](https://link.webropolsurveys.com/S/F7B2F6F30E8DE049) for people interested in
