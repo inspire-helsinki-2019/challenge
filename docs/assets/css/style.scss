@@ -24,6 +24,18 @@ body {
   background: #fafafa;
 }
 
+h1 {
+  color: #0065a5;
+}
+
+h2 {
+  color: #0065a5;
+  font-size: 24px;
+  font-weight: normal;
+  padding-bottom: 0px;
+  background: none;
+}
+
 .inner {
   position: static;
 }
@@ -35,6 +47,12 @@ body {
 
    .inner {
      padding-bottom:172px;
+
+     .signup {
+       position: absolute;
+       top: 100px;
+       left: 415px;
+     }
    }
  }
 
@@ -64,6 +82,15 @@ body {
       opacity: 0.8;
       text-align: justify;
     }
+  }
+}
+
+.card {
+  .card-title {
+    margin-top: 0px;
+  }
+  .card-text {
+    height: 6em;
   }
 }
  #footer_wrap {

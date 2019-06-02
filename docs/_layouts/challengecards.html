@@ -7,21 +7,19 @@
         <div class="container mt-3 mb-5">
           <div class="row">
             {% for challenge in site.data.challenges %}
-            <div class="col-sm-3">
+            <div class="col-sm-6 p-2">
               <div class="card">
                 {% if challenge.thumbnail %}
-                <img src="{{ challenge.thumbnail }}" class="card-img-top" />
+                <a href="{{ challenge.id }}.html"><img src="./images/{{ challenge.thumbnail }}" class="card-img-top" /></a>
                 {% endif %}
                 <div class="card-body">
                   {% if challenge.title %}
-                  <h5 class="card-title">{{ challenge.title }}</h5>
+                  <a href="{{ challenge.id }}.html"><h5 class="card-title">{{ challenge.title }}</h5></a>
                   {% endif %}
-                  {% if challenge.summary %}
-                  <p class="card-text">{{ challenge.summary }}</p>
+                  {% if challenge.headline %}
+                  <p class="card-text">{{ challenge.headline }}</p>
                   {% endif %}
-                  {% if challenge.page %}
-                  <a href="{{ challenge.page }}" class="btn btn-primary">Learn more</a>
-                  {% endif %}
+                  <a href="{{ challenge.id }}.html" class="btn btn-primary">Learn more</a>
                 </div>
               </div>
             </div>

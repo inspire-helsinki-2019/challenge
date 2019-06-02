@@ -19,7 +19,7 @@ before the sing up closes. Everyone is welcome to join these webinars, and all t
 [comment]: # <a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-primary btn-lg">Sign up your team now!</a>
 
 ## Team organisation and work on a challenge
-The data challenges have been written in a way to be solvable by capable teams of around 2-6 members.
+The [data challenges](./challenges.html) have been written in a way to be solvable by capable teams of around 2-6 members.
 The number of the team members as well as their email addresses are asked on the sign up form. The teams may change or
 add members at any point before or during the challenge, and the written submission should have the names of all the
 contributing team members. It's required to keep the challenge organisers up-to-date on the possible changes of the
