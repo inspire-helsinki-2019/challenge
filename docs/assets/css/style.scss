@@ -41,19 +41,7 @@ h2 {
 }
 
  #header_wrap {
-   @include background-2x( '/images/inspire-helsinki-2019-data-challenge-banner', 'png', 1200px);
-   background-color: white;
-   position:relative;
-
-   .inner {
-     padding-bottom:172px;
-
-     .signup {
-       position: absolute;
-       top: 100px;
-       left: 415px;
-     }
-   }
+     display: none;
  }
 
  #main_content_wrap {
@@ -64,6 +52,10 @@ h2 {
    .inner {
      max-width: 58em;
    }
+}
+
+#main_content {
+  padding-top: 0px;
 }
 
 .challenge {
@@ -90,7 +82,7 @@ h2 {
     margin-top: 0px;
   }
   .card-text {
-    height: 6em;
+    min-height: 6em;
   }
 }
  #footer_wrap {
@@ -107,6 +99,12 @@ h2 {
       color: black;
       text-decoration: none;
      }
+   }
+ }
+
+ .navbar-brand {
+   &.long {
+     display:none;
    }
  }
 
@@ -178,4 +176,47 @@ h2 {
           color: #007bff;
         }
     }
+}
+@media screen and (min-width: 500px) {
+  .navbar-brand {
+    &.short {
+      display:none;
+    }
+    &.long {
+      display:block;
+    }
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .navbar-brand {
+    &.short {
+      display:none;
+    }
+    &.long {
+      display:none;
+    }
+  }
+  #header_wrap {
+    display: block;
+  }
+  #main_content {
+    padding-top: 40px;
+  }
+
+  #header_wrap {
+    @include background-2x( '/images/inspire-helsinki-2019-data-challenge-banner', 'png', 1200px);
+    background-color: white;
+    position:relative;
+
+    .inner {
+      padding-bottom:172px;
+
+      .signup {
+        position: absolute;
+        top: 140px;
+        left: 60px;
+      }
+    }
+  }
 }

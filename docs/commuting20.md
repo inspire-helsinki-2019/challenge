@@ -4,8 +4,11 @@ title: Inspire Helsinki 2019 Data Challenge - Commuting 2.0"
 page: "commuting20"
 jumbotronImage: "action-bicycle-buildings-763398.jpg"
 ---
-## Background & context
 
+## Challenge partners
+Finnish Meteorological Institute, Vaisala and Spatineo: Roope Tervo (FMI), Jani Kettunen (Vaisala), Ilkka Rinne (Spatineo)
+
+## Background & context
 * This challenge is about helping urban living by using data on weather conditions
 * Parts of the weather information are INSPIRE data
 * Vaisala has participated in Junction 2018 with the theme ["Actually Useful Weather"](https://www.vaisala.com/en/blog/2019-02/winners-vaisalas-challenges-junction-2018-hacked-weather-and-sauna)
@@ -58,8 +61,5 @@ Note. WFS 3.0 implementation list is available in the [WFS/FES Github repository
 
 ## Offered benefits for the teams
 * Unknown at the time, will provide information later
-
-## Submitting organisations
-Finnish Meteorological Institute, Vaisala and Spatineo: Roope Tervo (FMI), Jani Kettunen (Vaisala), Ilkka Rinne (Spatineo)
 
 [comment]: # <a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-primary btn-lg">Sign up your team now!</a>

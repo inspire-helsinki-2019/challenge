@@ -4,6 +4,9 @@ title: Inspire Helsinki 2019 Data Challenge - Let's make the most out of INSPIRE
 page: "mostOutOfINSPIRE"
 jumbotronImage: "art-big-data-blur-373543.jpg"
 ---
+## Challenge partners
+European Commission, Joint Research Centre
+
 ## Background & context
 
 The pan-European INSPIRE infrastructure provides a steadily growing number of datasets for reuse. Despite the good progress made, some technical challenges pertaining to the way in which data are being encoded and served often make it difficult for users to consume, and developers to build value-added applications. The INSPIRE Maintenance and Implementation group addresses those through dedicated actions. Among those, the most important within the context of this challenge are:
@@ -70,8 +73,5 @@ We would welcome the following results:
 - Learning experiences (lessons learnt from the work on the challenge reusable for 'real-world' use cases)
 - INSPIRE Good practice (possible submission of the results as an [INSPIRE Good practice](https://inspire.ec.europa.eu/portfolio/good-practice-library))
 - Free registration and follow-up at the INSPIRE Conference 2020 in Dubrovnik for one member of the winning team.
-
-## Submitting organisations
-- European Commission, Joint Research Centre
 
 [comment]: # <a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-primary btn-lg">Sign up your team now!</a>

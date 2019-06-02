@@ -6,17 +6,20 @@ page: "signup"
 ---
 # Sign up to challenges
 Teams have to sign up in order to to participate in the Inspire Helsinki 2019 Data Challenge.
+The sign up is open **until 16 August 2019**. The team leader will be contacted soon after signing up for
+more info and guidance on getting your team ready. There will be an informative webinar arranged for each of the [challenges](./challenges.html)
+before the sign up closes. Everyone is welcome to join these webinars, and all signed up teams will be automatically invited.
+Please note that people working for any of the partners for a particular challenge are not allowed to be members of a
+teams working with that challenge.
+
 The first 10 teams to sign up are eligible for one (1) 100% discount code per team for the
-[Inspire Helsinki 2019 event](https://www.inspire-helsinki-2019.fi/) in Helsinki on 22nd - 24th October. After the
-signing up, the team leader receives the discount code to use when [registering](https://www.inspire-helsinki-2019.fi/register)
-to the Inspire Helsinki 2019 event. Please note that the discount tickets are only valid for the teams who have send the
-written submission for their challenge work by 31st September 2019.
+[Inspire Helsinki 2019 event](https://www.inspire-helsinki-2019.fi/) in Helsinki on 22 - 24 October. After the
+signing up, the eligible team leaders receive discount codes to use when [registering](https://www.inspire-helsinki-2019.fi/register)
+to the Inspire Helsinki 2019 event. Please note that the discounted tickets are only valid for the teams who have sent a
+written submission for their challenge work by 31 September 2019.
 
-The team sign up is open **between 3rd June and 16th August 2019**. The team leader will be contacted soon after signing up for
-more info and guidance on getting your team ready. There will be an informative webinar arranged for each of the challenges
-before the sing up closes. Everyone is welcome to join these webinars, and all the registered teams will be automatically invited.
-
-[comment]: # <a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-primary btn-lg">Sign up your team now!</a>
+[comment]: #
+<a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-success btn-lg">Sign up your team now!</a>
 
 ## Team organisation and work on a challenge
 The [data challenges](./challenges.html) have been written in a way to be solvable by capable teams of around 2-6 members.
@@ -35,7 +38,7 @@ to answer any of your questions considering the data challenges. All the teams a
 discussions to share ideas and learn together.
 
 ## Awards and rights
-The winning team for each challenge will be awarded with a trip to the Inspire 2020 conference in Dubrovnik, Croatia.
+The European Commission Joint Research Centre (JRC) awards the winners of each challenge with a trip to the INSPIRE 2020 Conference in Dubrovnik, Croatia.
 There may also be more prices awarded for the top ranked teams, more details will be announced later.
 
 All intellectual property rights to the submitted work remains with the submitting team. The challenge organisers and

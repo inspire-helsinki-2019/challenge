@@ -4,6 +4,10 @@ title: Inspire Helsinki 2019 Data Challenge - Find the best seaside vacation spo
 page: "seasideVacationSpot"
 jumbotronImage: "clouds-daylight-environment-462146.jpg"
 ---
+
+## Challenge partners
+HELCOM (Baltic Marine Environment Protection Commission - Helsinki Commission), Joni Kaitaranta (HELCOM), Florent Nicolas (HELCOM), Manuel Frias (HELCOM)
+
 ## Background & context
 People have flocked to the seaside for different activities and relaxation for hundreds of years. Whether you like to fish, swim, dive, sail or just see and hear the waves, the seaside has been a popular place for people to spend their vacations.
 
@@ -81,8 +85,5 @@ Your challenge, should you accept it, is to build a web application or a spatial
 
 ## Offered benefits for the teams
 All teams that submit a response to the challenge will get a HELCOM gift package for the entire team!
-
-## Submitting organisations
-- HELCOM (Baltic Marine Environment Protection Commission - Helsinki Commission), Joni Kaitaranta (HELCOM), Florent Nicolas (HELCOM), Manuel Frias (HELCOM)
 
 [comment]: # <a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-primary btn-lg">Sign up your team now!</a>

@@ -4,6 +4,9 @@ title: Inspire Helsinki 2019 Data Challenge - By the Beautiful Blue Danube"
 page: "schonenBlauenDonau"
 jumbotronImage: "aerial-shot-building-business-2226458.jpg"
 ---
+## Challenge partners
+AELER (Roman Heimgartner), WeTransform (Thorsten Reitz)
+
 ## Background & context
 - The challenge is about exploring the efficiency of intermodal transport in Europe.
 - The solution can have an impact on the environment, by providing people with more visibility on routes that may be more efficient in terms of fuel consumption. Consequently CO2 emission can be decreased.
@@ -50,7 +53,5 @@ Open source routing software: GraphHopper, Navit, OpenSourceRoutingMachine, Pyro
 ## Offered benefits for the teams
 TBD
 
-## Submitting organisations
-AELER (Roman Heimgartner), WeTransform (Thorsten Reitz)
 
 [comment]: # <a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-primary btn-lg">Sign up your team now!</a>
