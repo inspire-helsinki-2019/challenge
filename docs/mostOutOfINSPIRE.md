@@ -74,4 +74,4 @@ We would welcome the following results:
 - INSPIRE Good practice (possible submission of the results as an [INSPIRE Good practice](https://inspire.ec.europa.eu/portfolio/good-practice-library))
 - Free registration and follow-up at the INSPIRE Conference 2020 in Dubrovnik for one member of the winning team.
 
-[comment]: # <a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-primary btn-lg">Sign up your team now!</a>
+<a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-success btn-lg">Sign up your team now!</a>

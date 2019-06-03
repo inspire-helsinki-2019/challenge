@@ -86,4 +86,4 @@ Your challenge, should you accept it, is to build a web application or a spatial
 ## Offered benefits for the teams
 All teams that submit a response to the challenge will get a HELCOM gift package for the entire team!
 
-[comment]: # <a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-primary btn-lg">Sign up your team now!</a>
+<a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-success btn-lg">Sign up your team now!</a>
