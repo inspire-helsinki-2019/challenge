@@ -1,7 +1,7 @@
 ---
 layout: "default"
-title: "Inspire Helsinki 2019 Challenge - Team Sign-up"
-description: "Sign-up will open soon"
+title: "Inspire Helsinki 2019 Challenge - Team Sign up"
+description: "Sign up your challenge team now"
 page: "signup"
 ---
 # Sign up to challenges
