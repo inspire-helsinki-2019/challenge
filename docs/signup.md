@@ -28,10 +28,10 @@ add members at any point before or during the challenge, and the written submiss
 contributing team members. It's required to keep the challenge organisers up-to-date on the possible changes of the
 team leader, so that we always know how to contact the team.
 
-The signed up teams start working on their chosen challenge from 1st September and send a written submission of their
-results by the 31st September. The organisers and the challenge partners evaluate the submissions and choose the finalist teams
-for each of the challenge for the final oral presentation round in the Inspire Helsinki 2019 event. At least one member each
-teams has to be prepared to present their results in the Inspire Helsinki 2019 event either in person or remotely.
+The signed up teams start working on their chosen challenge from 1 September and send a written submission of their
+results by the 31 September. The organisers and the challenge partners evaluate the submissions and choose the finalist teams
+for each of the challenge for the final oral presentation round in the Inspire Helsinki 2019 event. At least one member of each
+team has to be prepared to present their results in the Inspire Helsinki 2019 event either in person or remotely.
 
 The challenge organisers and partners will be available in [Spectrum discussion forum](https://spectrum.chat/inspire-helsinki)
 to answer any of your questions considering the data challenges. All the teams are also encouraged to join the
