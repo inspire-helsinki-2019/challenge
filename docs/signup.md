@@ -38,7 +38,7 @@ to answer any of your questions considering the data challenges. All the teams a
 discussions to share ideas and learn together.
 
 ## Awards and rights
-The European Commission Joint Research Centre (JRC) awards the winners of each challenge with a trip to the INSPIRE 2020 Conference in Dubrovnik, Croatia.
+One member of each winner team is awarded with a free entry to the INSPIRE 2020 Conference in Dubrovnik, Croatia.
 There may also be more prices awarded for the top ranked teams, more details will be announced later.
 
 All intellectual property rights to the submitted work remains with the submitting team. The challenge organisers and
