@@ -4,7 +4,7 @@ title: "Tools for the teams - Inspire Helsinki 2019 Data Challenge"
 description: "Set of professional spatial data processing and visualisation tools provided by the challenge partners"
 page: "tools"
 sidebar:
-  content: ""
+  content: "Esri, Inc.<br/><img src='/images/european-data-portal-logo.png' alt='European Data Portal' /><br/><img src='/images/inspire-logo.png' alt='INSPIRE' style='background-color:#025d94;'/>"
 ---
 # Tools and data for the challenge teams
 Tools and datasets listed on this page are provided for the Inspire Helsinki Data Challenge teams free of charge either
