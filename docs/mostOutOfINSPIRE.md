@@ -77,5 +77,3 @@ We would welcome the following results:
 
 ## Contact
 [Alexander Kotsev](https://github.com/alexanderkotsev), [Marco Minghini](https://github.com/MarcoMinghini), [Michael Lutz](https://github.com/michellutz), [Robert Thomas](https://github.com/RobertTomas71), Vlado Cetl
-
-<a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-success btn-lg">Sign up your team now!</a>

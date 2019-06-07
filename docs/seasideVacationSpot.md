@@ -88,5 +88,3 @@ Your challenge, should you accept it, is to build a web application or a spatial
 
 ## Contact
 Joni Kaitaranta, Florent Nicolas, Manuel Frias
-
-<a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-success btn-lg">Sign up your team now!</a>

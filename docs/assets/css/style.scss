@@ -2,22 +2,22 @@
 ---
 
 @import "{{ site.theme }}";
-@mixin background-2x($path, $ext: "png", $w: auto, $h: auto, $pos: left top, $repeat: no-repeat) {
+@mixin imgRetina($image, $extension, $width, $position: center, $repeat: no-repeat) {
+     background-image: url($image + '.' + $extension);
+     background-repeat: $repeat;
+     background-position: $position;
 
-  $at1x_path: "#{$path}.#{$ext}";
-  $at2x_path: "#{$path}@2x.#{$ext}";
-
-  background-image: url("#{$at1x_path}");
-  background-size: $w $h;
-  background-position: $pos;
-  background-repeat: $repeat;
-
-  @media all and (-webkit-min-device-pixel-ratio : 1.5),
-  all and (-o-min-device-pixel-ratio: 3/2),
-  all and (min--moz-device-pixel-ratio: 1.5),
-  all and (min-device-pixel-ratio: 1.5) {
-    background-image: url("#{$at2x_path}");
-  }
+     @media
+     screen and (-webkit-min-device-pixel-ratio: 2),
+     screen and (   min--moz-device-pixel-ratio: 2),
+     screen and (   -moz-min-device-pixel-ratio: 2),
+     screen and (     -o-min-device-pixel-ratio: 2/1),
+     screen and (        min-device-pixel-ratio: 2),
+     screen and (             min-resolution: 192dpi),
+     screen and (             min-resolution: 2dppx) {
+        background-image: url($image + '@2x' + '.' + $extension);
+        background-size: $width auto;
+     }
 }
 body {
   color: #373737;
@@ -256,7 +256,7 @@ h4 {
   }
 
   #header_wrap {
-    @include background-2x( '/images/inspire-helsinki-2019-data-challenge-banner', 'png', 1200px);
+    @include imgRetina('/images/inspire-helsinki-2019-data-challenge-banner', 'png', 1200px, left top);
     background-color: white;
     position:relative;
 

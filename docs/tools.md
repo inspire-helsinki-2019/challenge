@@ -4,7 +4,7 @@ title: "Tools for the teams - Inspire Helsinki 2019 Data Challenge"
 description: "Set of professional spatial data processing and visualisation tools provided by the challenge partners"
 page: "tools"
 sidebar:
-  content: "Esri, Inc.<br/><img src='/images/european-data-portal-logo.png' alt='European Data Portal' /><br/><img src='/images/inspire-logo.png' alt='INSPIRE' />"
+  content: "Esri, Inc.<br/><img src='/images/inspire-logo.png' alt='INSPIRE' /><br/><img src='/images/european-data-portal-logo.png' alt='European Data Portal' />"
 ---
 # Tools and data for the challenge teams
 Tools and datasets listed on this page are provided for the Inspire Helsinki Data Challenge teams free of charge either
@@ -68,8 +68,11 @@ For example, are you interested in 3D urban design and planning applications? Se
 Webinar for interested participants at the beginning of the challenge period to help people get started with their ArcGIS developer account.
 
 ## INSPIRE Geoportal
+The [INSPIRE Geoportal](http://inspire-geoportal.ec.europa.eu/) makes it easier to discover, monitor and directly use geospatial data sets relevant for specific application areas, in particular European environmental policy. The new Geoportal provides overviews of the availability of INSPIRE data sets by country and thematic area, and makes the data available and ready-for-use in a range of applications.
 
-[INSPIRE Geoportal](http://inspire-geoportal.ec.europa.eu/)
+The Geoportal is based on the metadata regularly harvested from the (currently 36) officially registered national data catalogues of EU Member States and EFTA countries.
+
+We encourage all teams to use datasets discovered through the INSPIRE Geoportal in addressing the challenge objectives!
 
 ## European Data Portal
 [European Data Portal](https://www.europeandataportal.eu/en/homepage)

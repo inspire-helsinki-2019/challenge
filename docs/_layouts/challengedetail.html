@@ -8,7 +8,7 @@
         <div class="row row-offcanvas row-offcanvas-right">
           <section id="main_content" class="col-12 col-md-9">
               {% if page.jumbotronImage %}
-              <div class="jumbotron" style="background-image: url('./images/{{ page.jumbotronImage }}');background-size: cover;">
+              <div class="jumbotron" style="background-image: url('/images/{{ page.jumbotronImage }}');background-size: cover;">
               {% else %}
               <div class="jumbotron">
               {% endif %}
@@ -40,6 +40,7 @@
                 </li>
               {% endfor %}
             </ul>
+            <a href="/signup.html" class="btn btn-primary btn-lg">Sign up your team!</a>
           </aside>
           {% endif %}
         </div>

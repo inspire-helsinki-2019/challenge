@@ -12,13 +12,12 @@ before the sign up closes. Everyone is welcome to join these webinars, and all s
 Please note that people working for any of the partners for a particular challenge are not allowed to be members of a
 teams working with that challenge.
 
-The first 10 teams to sign up are eligible for one (1) 100% discount code per team for the
-[Inspire Helsinki 2019 event](https://www.inspire-helsinki-2019.fi/) in Helsinki on 22 - 24 October. After the
+The **first 10 teams to sign up are eligible for one (1) 100% discount code per team for the
+[Inspire Helsinki 2019 event](https://www.inspire-helsinki-2019.fi/)** in Helsinki on 22 - 24 October (save up to 350€). After the
 signing up, the eligible team leaders receive discount codes to use when [registering](https://www.inspire-helsinki-2019.fi/register)
 to the Inspire Helsinki 2019 event. Please note that the discounted tickets are only valid for the teams who have sent a
 written submission for their challenge work by 31 September 2019.
 
-[comment]: #
 <a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-success btn-lg">Sign up your team now!</a>
 
 ## Team organisation and work on a challenge
