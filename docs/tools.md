@@ -7,6 +7,10 @@ sidebar:
   content: ""
 ---
 # Tools and data for the challenge teams
+Tools and datasets listed on this page are provided for the Inspire Helsinki Data Challenge teams free of charge either
+permanently or for the duration of the Data Challenge. Some of the tools may require additional registration or vouchers
+made available to the registered teams.
+
 * [ArcGIS for developers](#arcgis-for-developers)
 * [INSPIRE Geoportal](#inspire-geoportal)
 * [European Data Portal](#european-data-portal)
@@ -39,10 +43,8 @@ Consumer and/or GIS App developer skills (beginner to advanced)
 
 ### Offered datasets
 Access to data available in ArcGIS Online and Esri Living Atlas, such as imagery, transportation, OpenStreetMap, vector tile base maps, and 3D scenes. For an overview, see “[What Kind of Data is Available in ArcGIS Online?](https://www.esri.com/arcgis-blog/products/product/uncategorized/what-kind-of-data-is-available-in-arcgis-online/)” in the ArcGIS Blog.
-- Access details and licensing conditions
-  - This varies dataset by dataset, each having its own access and use constraints, for example, non-commercial use only or commercial use with attribution, or share and share alike constraints, etc.
-- Would you like to get support for publishing your data to challenge teams via temporary APIs (WFS2/WFS3, etc.)?
-  - Participants who have data who would like to host them as web services can do so through ArcGIS Online using their ArcGIS Developer subscription account.
+
+Licensing conditions varies dataset by dataset, each having its own access and use constraints, for example, non-commercial use only or commercial use with attribution, or share and share alike constraints, etc.
 
 ### New technologies to test or evaluate
 - ArcGIS Online gives participants the ability to import or create data and host it on the Esri cloud, accessible to maps and apps as RESTful web services.
@@ -52,6 +54,7 @@ Access to data available in ArcGIS Online and Esri Living Atlas, such as imagery
 
 ### Offered personal resources
 **Get Started with the ArcGIS Tutorials**
+
 Use the [ArcGIS Tutorials](https://developers.arcgis.com/labs/) to learn how to build mapping apps with ArcGIS APIs and SDKs. Find a tutorial for the exact project, task and API you need.
 
 **For self-help, the following resources are available:**
