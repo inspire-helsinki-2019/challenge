@@ -1,6 +1,6 @@
 ---
 layout: "challengecards"
-title: "Inspire Helsinki 2019 Challenges"
+title: "Challenges - Inspire Helsinki 2019 Data Challenge"
 description: "Data Challenges to choose from"
 page: "challenges"
 ---

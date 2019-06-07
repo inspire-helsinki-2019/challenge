@@ -1,0 +1,19 @@
+{% include header.html %}
+    {% include navbar.html %}
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer challenge sidebar-container">
+      <div class="inner">
+        <div class="row row-offcanvas row-offcanvas-right">
+          <section id="main_content" class="col-12 col-md-9">
+              {{ content }}
+          </section>
+          {% if page.sidebar %}
+          <aside id="sidebar" class="col-6 col-md-3 sidebar-offcanvas">
+            {% if page.sidebar.title %}<h4>{{ page.sidebar.title }}</h4>{% endif %}
+            {{ page.sidebar.content }}
+          </aside>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+{% include footer.html %}

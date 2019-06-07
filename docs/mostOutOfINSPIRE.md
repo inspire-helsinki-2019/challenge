@@ -1,11 +1,10 @@
 ---
 layout: "challengedetail"
-title: Inspire Helsinki 2019 Data Challenge - Let's make the most out of INSPIRE!"
+title: "Let's make the most out of INSPIRE! - Inspire Helsinki 2019 Data Challenge"
 page: "mostOutOfINSPIRE"
 jumbotronImage: "art-big-data-blur-373543.jpg"
 ---
-## Challenge partners
-European Commission, Joint Research Centre
+
 
 ## Background & context
 
@@ -72,6 +71,11 @@ We would welcome the following results:
 - Business opportunities (e.g. evolution of the results into products/services for European data providers)
 - Learning experiences (lessons learnt from the work on the challenge reusable for 'real-world' use cases)
 - INSPIRE Good practice (possible submission of the results as an [INSPIRE Good practice](https://inspire.ec.europa.eu/portfolio/good-practice-library))
-- Free registration and follow-up at the INSPIRE Conference 2020 in Dubrovnik for one member of the winning team.
+- Change to present the work results in the Inspire Helsinki 2019 event (for the finalist teams).
+- Free trip to the 2020 INSPIRE Conference for one person of the winning team.
+- Set of professional cloud-based [spatial data processing and visualisation tools](./tools.html) during the Challenge.
+
+## Contact
+[Alexander Kotsev](https://github.com/alexanderkotsev), [Marco Minghini](https://github.com/MarcoMinghini), [Michael Lutz](https://github.com/michellutz), [Robert Thomas](https://github.com/RobertTomas71), Vlado Cetl
 
 <a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-success btn-lg">Sign up your team now!</a>

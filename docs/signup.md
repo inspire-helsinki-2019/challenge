@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "Inspire Helsinki 2019 Challenge - Team Sign up"
+title: "Team sign up - Inspire Helsinki 2019 Data Challenge"
 description: "Sign up your challenge team now"
 page: "signup"
 ---
@@ -37,10 +37,12 @@ The challenge organisers and partners will be available in [Spectrum discussion 
 to answer any of your questions considering the data challenges. All the teams are also encouraged to join the
 discussions to share ideas and learn together.
 
-## Awards and rights
-One member of each winner team is awarded with a free entry to the INSPIRE 2020 Conference in Dubrovnik, Croatia.
+## Awards for the best teams
+One member of each winner team is awarded with a free entry and limited travel expenses to the INSPIRE 2020 Conference in Dubrovnik, Croatia,
+and a change to present the final work in the conference.
 There may also be more prices awarded for the top ranked teams, more details will be announced later.
 
+## Rights to the produced work
 All intellectual property rights to the submitted work remains with the submitting team. The challenge organisers and
 the challenge partners reserve a right to use the submitted material, including text, images and videos for promoting the
 Inspire Helsinki 2019 Data Challenge and the Inspire Helsinki 2019 event. The challenge teams are encouraged but not

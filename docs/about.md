@@ -1,6 +1,6 @@
 ---
 layout: "timeline"
-title: "Inspire Helsinki 2019 Data Challenge"
+title: "About - Inspire Helsinki 2019 Data Challenge"
 description: "Beat the other teams on a data challenge of your choosing in September 2019"
 page: "about"
 ---

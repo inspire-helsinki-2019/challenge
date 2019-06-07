@@ -1,11 +1,9 @@
 ---
 layout: "challengedetail"
-title: Inspire Helsinki 2019 Data Challenge - By the Beautiful Blue Danube"
+title: "By the Beautiful Blue Danube - Inspire Helsinki 2019 Data Challenge"
 page: "schonenBlauenDonau"
 jumbotronImage: "aerial-shot-building-business-2226458.jpg"
 ---
-## Challenge partners
-AELER (Roman Heimgartner), WeTransform (Thorsten Reitz)
 
 ## Background & context
 - The challenge is about exploring the efficiency of intermodal transport in Europe.
@@ -51,6 +49,11 @@ Open source routing software: GraphHopper, Navit, OpenSourceRoutingMachine, Pyro
 - Corridors discovery, with focus on waterways.
 
 ## Offered benefits for the teams
-TBD
+* Change to present the work results in the Inspire Helsinki 2019 event (for the finalist teams).
+* Free trip to the 2020 INSPIRE Conference for one person of the winning team.
+* Set of professional cloud-based [spatial data processing and visualisation tools](./tools.html) during the Challenge.
+
+## Contact
+Roman Heimgartner(AELER), Thorsten Reitz (wetransform)
 
 <a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-success btn-lg">Sign up your team now!</a>

@@ -14,7 +14,7 @@
       {% endif %}
         <a class="nav-link dropdown-toggle" href="./challenges.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-binoculars"></i>&nbsp;Challenges</a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="/">{{ challenge.title }} Overview</a>
+          <a class="dropdown-item" href="/">Overview</a>
           <div class="dropdown-divider"></div>
           {% for challenge in site.data.challenges %}
             {% if challenge.enabled %}
@@ -35,7 +35,7 @@
       {% else %}
       <li class="nav-item">
       {% endif %}
-        <a class="nav-link disabled" href="./tools.html"><i class="fas fa-tools"></i>&nbsp;Tools</a>
+        <a class="nav-link" href="./tools.html"><i class="fas fa-tools"></i>&nbsp;Tools & data</a>
       </li>
       {% if page.page == 'about' %}
       <li class="nav-item active">

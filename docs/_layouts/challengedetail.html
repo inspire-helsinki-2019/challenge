@@ -1,21 +1,48 @@
-{% include header.html title="Inspire Helsinki 2019 Data Challenge" %}
+{% include header.html %}
     {% include navbar.html %}
     {% assign _challenges = site.data.challenges | where: "id", page.page %}
     {% assign challenge = _challenges.first %}
     <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer challenge">
-      <section id="main_content" class="inner">
-          {% if page.jumbotronImage %}
-          <div class="jumbotron" style="background-image: url('./images/{{ page.jumbotronImage }}');background-size: cover;">
-          {% else %}
-          <div class="jumbotron">
+    <div id="main_content_wrap" class="outer challenge sidebar-container">
+      <div class="inner">
+        <div class="row row-offcanvas row-offcanvas-right">
+          <section id="main_content" class="col-12 col-md-9">
+              {% if page.jumbotronImage %}
+              <div class="jumbotron" style="background-image: url('./images/{{ page.jumbotronImage }}');background-size: cover;">
+              {% else %}
+              <div class="jumbotron">
+              {% endif %}
+                <h1 class="display-4 bg-dark text-light">{{ challenge.title }}</h1>
+              </div>
+              {% if challenge.summary %}
+              <div class="lead">{{ challenge.summary }}</div>
+              {% endif %}
+              {{ content }}
+          </section>
+          {% if challenge.partners %}
+          <aside id="sidebar" class="col-6 col-md-3 sidebar-offcanvas partners">
+            <h4>Challenge partners</h4>
+            <ul class="partner-list">
+              {% for partner in challenge.partners %}
+                <li>
+                  {% if partner.link %}
+                  <a href="{{ partner.link }}">
+                  {% endif %}
+                  {% if partner.logo %}
+                  <img src="/images/{{ partner.logo }}" alt="{{ partner.name }}"/><br/>
+                  {% else %}
+                  <span>{{ partner.name }}</span>
+                  {% endif %}
+                  {% if partner.link %}
+                  </a>
+                  {% endif %}
+                  {% if partner.title %}<span>{{ partner.title }}</span>{% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          </aside>
           {% endif %}
-            <h1 class="display-4 bg-dark text-light">{{ challenge.title }}</h1>
-          </div>
-          {% if challenge.summary %}
-          <div class="lead">{{ challenge.summary }}</div>
-          {% endif %}
-          {{ content }}
-      </section>
+        </div>
+      </div>
     </div>
 {% include footer.html %}

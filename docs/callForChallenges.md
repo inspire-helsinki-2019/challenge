@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "Inspire Helsinki 2019 Call for Challenges"
+title: "Call for Challenges - Inspire Helsinki 2019 Data Challenge"
 description: "Call for challenges is closed"
 page: "callForChallenges"
 ---
