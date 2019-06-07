@@ -11,7 +11,7 @@ Tools and datasets listed on this page are provided for the Inspire Helsinki Dat
 permanently or for the duration of the Data Challenge. Some of the tools may require additional registration or vouchers
 made available to the registered teams.
 
-* [ArcGIS for developers](#arcgis-for-developers)
+* [ArcGIS for Developers](#arcgis-for-developers)
 * [INSPIRE Geoportal](#inspire-geoportal)
 * [European Data Portal](#european-data-portal)
 
