@@ -20,7 +20,7 @@ As a challenge partners, [Esri, Inc](https://www.esri.com/), Esri Europe and [Es
 
 [ArcGIS for Developers](https://developers.arcgis.com) is a complete developer experience designed to be simple and flexible. Joining ArcGIS for Developers gives you access to all of the software and resources you need to build, manage, and deploy your solutions quickly and cost-effectively.
 
-To Use ArcGIS in the Inspire Helsinki 2019 Challenges:
+To use ArcGIS in the Inspire Helsinki 2019 Challenges:
 
 - Create your free [developer account](https://developers.arcgis.com/sign-up)
 - Esri will provide special ArcGIS Online vouchers that extend credits to Inspire Helsinki 2019 Challenge participants
