@@ -32,6 +32,7 @@
   enabled: true
   partners:
     - name: "HELCOM (Baltic Marine Environment Protection Commission - Helsinki Commission)"
+      logo: HELCOM-logo.png
       link: "http://www.helcom.fi/"
   thumbnail: "clouds-daylight-environment-462146-thumb.png"
 
