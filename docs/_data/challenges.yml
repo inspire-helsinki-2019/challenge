@@ -17,7 +17,7 @@
 
 - title: "Let's make the most out of INSPIRE!"
   id: mostOutOfINSPIRE
-  headline: "Figure out ways to improve how data is being delivered and encoded in particular use cases (e.g. building a cross-border dataset, or using a specific dataset in a particular software product)"
+  headline: "Figure out ways to improve how data is being delivered and encoded in particular use cases (e.g. building a cross-border dataset, or using a specific dataset in a particular software product)."
   summary: "This challenge targets the improved exploitation of the INSPIRE infrastructure by limiting possible inefficiencies in the way in which data are being (i) encoded and/or (ii) exposed through network services by EU Member State data providers. The starting point for the work shall be a particular use case and limitations encountered (e.g. building a cross-border dataset, or using a specific dataset in a particular software product), instead of general issues."
   enabled: true
   partners:

@@ -1,7 +1,7 @@
 ---
 layout: "default"
 title: "Team sign up - Inspire Helsinki 2019 Data Challenge"
-description: "Sign up your challenge team now"
+description: "Sign up your challenge team before 16 August 2019"
 page: "signup"
 ---
 # Sign up to challenges

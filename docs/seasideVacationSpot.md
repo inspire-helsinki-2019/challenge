@@ -2,6 +2,7 @@
 layout: "challengedetail"
 title: "Find the best seaside vacation spot - Inspire Helsinki 2019 Data Challenge"
 page: "seasideVacationSpot"
+description: "Develop solutions to find the best location for a seaside vacation depending on the interests and nature values ensuring sustainable nature of the planned activities."
 jumbotronImage: "clouds-daylight-environment-462146.jpg"
 ---
 

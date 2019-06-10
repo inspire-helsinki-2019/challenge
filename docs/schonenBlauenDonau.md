@@ -1,6 +1,7 @@
 ---
 layout: "challengedetail"
 title: "By the Beautiful Blue Danube - Inspire Helsinki 2019 Data Challenge"
+description: "Discover alternative transport routings using the European waterways and railways instead of road networkd for increased efficiency and lower the CO2 emissions."
 page: "schonenBlauenDonau"
 jumbotronImage: "aerial-shot-building-business-2226458.jpg"
 ---

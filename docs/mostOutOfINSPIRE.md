@@ -1,6 +1,7 @@
 ---
 layout: "challengedetail"
 title: "Let's make the most out of INSPIRE! - Inspire Helsinki 2019 Data Challenge"
+description: "Figure out ways to improve how data is being delivered and encoded in particular use cases (e.g. building a cross-border dataset, or using a specific dataset in a particular software product)"
 page: "mostOutOfINSPIRE"
 jumbotronImage: "art-big-data-blur-373543.jpg"
 ---

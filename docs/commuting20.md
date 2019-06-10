@@ -1,6 +1,7 @@
 ---
 layout: "challengedetail"
 title: Commuting 2.0 - Inspire Helsinki 2019 Data Challenge"
+description: "Make planning the day-to-day commuting safer and more pleasant for pedestrians, cyclers and other light traffic users using weather, air quality and road condition data."
 page: "commuting20"
 jumbotronImage: "action-bicycle-buildings-763398.jpg"
 ---

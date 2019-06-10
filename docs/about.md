@@ -1,7 +1,7 @@
 ---
 layout: "timeline"
 title: "About - Inspire Helsinki 2019 Data Challenge"
-description: "Beat the other teams on a data challenge of your choosing in September 2019"
+description: "Inspire Helsinki 2019 event hosts challenges for practical uses of spatial data in the domains of sea, weather and cities."
 page: "about"
 ---
 # Inspire Helsinki 2019 Data Challenge
