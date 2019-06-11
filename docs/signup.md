@@ -7,7 +7,7 @@ page: "signup"
 # Sign up to challenges
 Teams have to sign up in order to to participate in the Inspire Helsinki 2019 Data Challenge.
 The sign up is open **until 16 August 2019**. The team leader will be contacted soon after signing up for
-more info and guidance on getting your team ready. There will be an informative webinar arranged for each of the [challenges](./challenges.html)
+more info and guidance on getting your team ready. There will be an informative webinar arranged for each of the [challenges](/)
 before the sign up closes. Everyone is welcome to join these webinars, and all signed up teams will be automatically invited.
 Please note that people working for any of the partners for a particular challenge are not allowed to be members of a
 teams working with that challenge.
@@ -21,7 +21,7 @@ written submission for their challenge work by 31 September 2019.
 <a href="https://link.webropolsurveys.com/S/05E6EB60D2E25D33" class="btn btn-success btn-lg">Sign up your team now!</a>
 
 ## Team organisation and work on a challenge
-The [data challenges](./challenges.html) have been written in a way to be solvable by capable teams of around 2-6 members.
+The [data challenges](/) have been written in a way to be solvable by capable teams of around 2-6 members.
 The number of the team members as well as their email addresses are asked on the sign up form. The teams may change or
 add members at any point before or during the challenge, and the written submission should have the names of all the
 contributing team members. It's required to keep the challenge organisers up-to-date on the possible changes of the
