@@ -77,4 +77,4 @@ We would welcome the following results:
 - Set of professional cloud-based [spatial data processing and visualisation tools](./tools.html) during the Challenge.
 
 ## Contact
-[Alexander Kotsev](https://github.com/alexanderkotsev), [Marco Minghini](https://github.com/MarcoMinghini), [Michael Lutz](https://github.com/michellutz), [Robert Thomas](https://github.com/RobertTomas71), Vlado Cetl
+[Alexander Kotsev](https://github.com/alexanderkotsev), [Marco Minghini](https://github.com/MarcoMinghini), [Michael Lutz](https://github.com/michellutz), [Robert Tomas](https://github.com/RobertTomas71), Vlado Cetl
