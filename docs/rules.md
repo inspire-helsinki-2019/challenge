@@ -4,6 +4,15 @@ title: "Rules - Inspire Helsinki 2019 Data Challenge"
 description: "The official rules for the Inspire Helsinki 2019 Data Challenge competition"
 page: "rules"
 ---
+# Prizes and awards
+The judges of each challenge choose both the teams for the final and after the oral presentations, the winners for each challenge. Challenge sponsors may additionally award any of the teams with special awards at their discretion.
+* One member of each winner team is awarded with a free entry and limited travel expenses to the INSPIRE 2020 Conference in Dubrovnik, Croatia,
+and a change to present the final work in the conference.
+* The first 10 teams to sign up are eligible for one (1) 100% discount code per team for the
+[Inspire Helsinki 2019 event](https://www.inspire-helsinki-2019.fi/) in Helsinki on 22 - 24 October (save up to 350€). The discounted tickets are only valid for the teams who have sent a written submission for their challenge work by the submission deadline.
+* [Safe Software]() will award the best utilisation of the FME tools with a special FME Award. The FME Award will include free registration for the Vancouver 2020 [FME User Conference](https://www.safe.com/fmeuc/).
+* There may also be other special awards for the top ranked teams, more details will be announced later.
+
 # Inspire Helsinki 2019 Data Challenge Rules
 
 ## 1. Code of conduct
@@ -40,16 +49,7 @@ page: "rules"
 * **Presentation** – how well is the work presented, both in written and spoken word as well as in possible graphics or user interfaces.
 1. Both the written submissions and the oral presentation are evaluated by the judges consisting of the challenge organisers and the challenge partners for the particular challenge.
 
-## 6. Prizes and awards
-1. The judges of each challenge choose both the teams for the final and after the oral presentations, the winners for each challenge. Challenge sponsors may additionally award any of the teams with special awards at their discretion.
-1. One member of each winner team is awarded with a free entry and limited travel expenses to the INSPIRE 2020 Conference in Dubrovnik, Croatia,
-and a change to present the final work in the conference.
-1. The first 10 teams to sign up are eligible for one (1) 100% discount code per team for the
-[Inspire Helsinki 2019 event](https://www.inspire-helsinki-2019.fi/) in Helsinki on 22 - 24 October (save up to 350€). The discounted tickets are only valid for the teams who have sent a written submission for their challenge work by the submission deadline.
-1. [Safe Software]() will award the best utilisation of the FME tools with a special FME Award. The FME Award will include free registration for the Vancouver 2020 [FME User Conference](https://www.safe.com/fmeuc/).
-1. There may also be other special awards for the top ranked teams, more details will be announced later.
-
-## 7. Intellectual property rights
+## 6. Intellectual property rights
 1. All intellectual property rights to the submitted work remains with the submitting team. The challenge organisers and
 the challenge partners reserve a right to use the submitted material, including text, images and videos for promoting the
 Inspire Helsinki 2019 Data Challenge and the Inspire Helsinki 2019 event.
