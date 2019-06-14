@@ -5,7 +5,7 @@ description: "The official rules for the Inspire Helsinki 2019 Data Challenge co
 page: "rules"
 ---
 # Prizes and awards
-The judges of each challenge choose both the teams for the final and after the oral presentations, the winners for each challenge. Challenge sponsors may additionally award any of the teams with special awards at their discretion.
+The judges of each challenge choose both the teams for the final and, after the oral presentations, the winners for each challenge. Challenge sponsors may additionally award any of the teams with special awards at their discretion.
 * One member of each winner team is awarded with a free entry and limited travel expenses to the INSPIRE 2020 Conference in Dubrovnik, Croatia,
 and a change to present the final work in the conference.
 * The first 10 teams to sign up are eligible for one (1) 100% discount code per team for the
