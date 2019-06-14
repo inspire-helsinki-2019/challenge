@@ -4,19 +4,24 @@ title: "Tools for the teams - Inspire Helsinki 2019 Data Challenge"
 description: "Set of professional spatial data processing and visualisation tools provided by the challenge partners"
 page: "tools"
 sidebar:
-  content: "Esri, Inc.<br/><img src='/images/inspire-logo.png' alt='INSPIRE' /><br/><img src='/images/european-data-portal-logo.png' alt='European Data Portal' />"
+  content: "<a href='https://www.esri.com/'><img src='/images/esri-logo.png' alt='Esri'/></a><br/><a href='https://www.safe.com/'><img src='/images/safe-logo.png' alt='Safe Software'/></a><br/><a href='http://inspire-geoportal.ec.europa.eu/'><img src='/images/inspire-logo.png' alt='INSPIRE' /></a><br/><a href='https://www.europeandataportal.eu/'><img src='/images/european-data-portal-logo.png' alt='European Data Portal' /></a>"
 ---
 # Tools and data for the challenge teams
 Tools and datasets listed on this page are provided for the Inspire Helsinki Data Challenge teams free of charge either
 permanently or for the duration of the Data Challenge. Some of the tools may require additional registration or vouchers
 made available to the registered teams.
 
+The challenge organisers and partners will be available in [Spectrum discussion forum](https://spectrum.chat/inspire-helsinki)
+to answer any of your questions considering the data challenges. All the teams are also encouraged to join the
+discussions to share ideas and learn together.
+
 * [ArcGIS for Developers](#arcgis-for-developers)
+* [FME Platform](#fme-platform)
 * [INSPIRE Geoportal](#inspire-geoportal)
 * [European Data Portal](#european-data-portal)
 
 ## ArcGIS for Developers
-As a challenge partners, [Esri, Inc](https://www.esri.com/), Esri Europe and [Esri Finland](https://www.esri.fi/) will support participants who are interested in using ArcGIS to build data, maps, apps and solutions to tackle the Inspire Helsinki 2019 Challenges.
+As a challenge sponsor partner, [Esri](https://www.esri.com/) will support participants who are interested in using ArcGIS to build data, maps, apps and solutions to tackle the Inspire Helsinki 2019 Challenges.
 
 [ArcGIS for Developers](https://developers.arcgis.com) is a complete developer experience designed to be simple and flexible. Joining ArcGIS for Developers gives you access to all of the software and resources you need to build, manage, and deploy your solutions quickly and cost-effectively.
 
@@ -66,6 +71,9 @@ Use the [ArcGIS Tutorials](https://developers.arcgis.com/labs/) to learn how to 
 For example, are you interested in 3D urban design and planning applications? See “[Create your next neighborhood in 3D](https://www.esri.com/arcgis-blog/products/js-api-arcgis/3d-gis/create-your-next-neighborhood-in-3d/)” in the ArcGIS Blog.
 
 Webinar for interested participants at the beginning of the challenge period to help people get started with their ArcGIS developer account.
+
+## FME Platform
+[Safe Software](https://www.safe.com/) provides [FME Cloud](https://www.safe.com/fme/fme-cloud/) access, [FME Desktop](https://www.safe.com/fme/fme-desktop/) and [FME Server](https://www.safe.com/fme/fme-server/) licenses to all interested teams with the validity or the duration of the Inspire Helsinki 2019 Data Challenge. More details to follow.
 
 ## INSPIRE Geoportal
 The [INSPIRE Geoportal](http://inspire-geoportal.ec.europa.eu/) makes it easier to discover, monitor and directly use geospatial data sets relevant for specific application areas, in particular European environmental policy. The new Geoportal provides overviews of the availability of INSPIRE data sets by country and thematic area, and makes the data available and ready-for-use in a range of applications.
