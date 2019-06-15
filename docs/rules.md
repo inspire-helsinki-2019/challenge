@@ -47,7 +47,7 @@ and a change to present the final work in the conference.
 * **Potential** - how much potential does the submission have to make an impact in the world, for instance by improving the quality of life, making data more valuable to society or growing businesses.
 * **Creativity** – how creative is the submission: is it a trailblazing new innovation or reinvention of well-known concepts.
 * **Presentation** – how well is the work presented, both in written and spoken word as well as in possible graphics or user interfaces.
-1. Both the written submissions and the oral presentation are evaluated by the judges consisting of the challenge organisers and the challenge partners for the particular challenge.
+1. Both the written submissions and the oral presentation are evaluated by the judges consisting of the challenge organisers and the challenge partners for the particular challenge. The names and the affiliations of the judges for each challenge will be announced before the submission deadline.
 
 ## 6. Intellectual property rights
 1. All intellectual property rights to the submitted work remains with the submitting team. The challenge organisers and
