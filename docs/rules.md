@@ -51,5 +51,5 @@ and a change to present the final work in the conference.
 
 ## 6. Intellectual property rights
 1. All intellectual property rights to the submitted work remains with the submitting team.
-1. The challenge organisers and the challenge partners reserve a right to use the submitted material, including text, images and videos for promotion and marketing purposes with contribution to the submitting team.
+1. The challenge organisers and the challenge partners reserve a right to use the submitted material, including text, images and videos for promotion and marketing purposes with attribution to the submitting team and mention of the Inspire Helsinki 2019 Data Challenge.
 1. The challenge teams are encouraged but not required to license their code and created datasets using an open source / open access license.
