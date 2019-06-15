@@ -22,16 +22,16 @@ and a change to present the final work in the conference.
 
 ## 2. Challenge partners
 1. Each challenge has one or more challenge partner from public and/or private organisations. These partners have volunteered to support the challenge teams with the provided data, tools and services to help them achieve great results.
-1. The challenge partners are responsible for the original idea and the research questions for the challenge, offer limited support for the challenge team members during the time teams work with the challenge, and participate in the evaluation of the team submissions.
+1. The challenge partners are responsible for the original idea and the research questions for the challenge, support the challenge team members during the time teams work with the challenge in September, and participate in the evaluation of the team submissions.
 1. The challenge partners for each challenge are listed on the challenge web page.
-1. People working for the partners for a particular challenge are not allowed to be members of teams working with that particular challenge.
+1. People working for the partners of a particular challenge are not allowed to be members of teams working with that challenge.
 
 ## 3. Participating to challenges
 1. Teams are obliged to [sign up](/signup.html) in order to to participate in the Inspire Helsinki 2019 Data Challenge. The sign up is open between 3 June and 16 August 2019.
 1. The number of the team members as well as their email addresses are asked on the sign up form. The teams may change or add members at any point before or during the challenge, and the written submission should have the names of all the contributing team members.
 1. The [data challenges](/) the teams set to solve are presented at the Inspire Helsinki 2019 Data Challenge website and they have been written in a way to be solvable by capable teams of around 2-6 members. The teams do not have to pick their final challenge at the sign up time, but each team may only submit their work to one of the challenges.
 1. It's required to keep the challenge organisers up-to-date on the possible changes of the team leader, so that we always know how to contact the team.
-1. The signed up teams may start working on their chosen challenge on 1 September and work on their project until 30 September. The teams are free to leverage any prior work they have personally created or have a license to use. However, work submitted to other competitions are not allowed as-is, and the teams are reminded that the originality of the presented solution is an important factor in the evaluation of the submissions,
+1. The signed up teams may start working on their chosen challenge on 1 September and work on their project until 30 September. The teams may use any prior work the team members have personally created or have a license to use as building blocks of their solution. However, work submitted to other competitions are not allowed as-is, and the teams are reminded that the originality of the presented solution is an important factor in the evaluation of the submissions,
 
 ## 4. Work submissions
 1. Depending on the challenge, one or more of the following submission types are allowed:
@@ -50,7 +50,6 @@ and a change to present the final work in the conference.
 1. Both the written submissions and the oral presentation are evaluated by the judges consisting of the challenge organisers and the challenge partners for the particular challenge. The names and the affiliations of the judges for each challenge will be announced before the submission deadline.
 
 ## 6. Intellectual property rights
-1. All intellectual property rights to the submitted work remains with the submitting team. The challenge organisers and
-the challenge partners reserve a right to use the submitted material, including text, images and videos for promoting the
-Inspire Helsinki 2019 Data Challenge and the Inspire Helsinki 2019 event.
+1. All intellectual property rights to the submitted work remains with the submitting team.
+1. The challenge organisers and the challenge partners reserve a right to use the submitted material, including text, images and videos for promotion and marketing purposes with contribution to the submitting team.
 1. The challenge teams are encouraged but not required to license their code and created datasets using an open source / open access license.
