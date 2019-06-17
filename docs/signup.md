@@ -10,6 +10,10 @@ The sign up is open **until 16 August 2019**. The team leader will be contacted 
 more info and guidance on getting your team ready. There will be an informative webinar arranged for each of the [challenges](/)
 before the sign up closes. Everyone is welcome to join these webinars, and all signed up teams will be automatically invited.
 
+The challenge organisers and partners will be available in [Spectrum discussion forum](https://spectrum.chat/inspire-helsinki)
+to answer any of your questions considering the data challenges. All the teams are also encouraged to join the
+discussions to share ideas and learn together.
+
 The **first 10 teams to sign up are eligible for one (1) 100% discount code per team for the
 [Inspire Helsinki 2019 event](https://www.inspire-helsinki-2019.fi/)** in Helsinki on 22 - 24 October (save up to 350€). After the
 signing up, the eligible team leaders receive discount codes to use when [registering](https://www.inspire-helsinki-2019.fi/register)

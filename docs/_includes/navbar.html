@@ -37,12 +37,17 @@
       {% endif %}
         <a class="nav-link" href="/signup.html"><i class="fas fa-sign-in-alt"></i>&nbsp;Sign up</a>
       </li>
-      {% if page.page == 'tools' %}
-      <li class="nav-item active">
+      {% if page.page == 'tools' or page.page == 'tools-arcgis' or page.page == 'tools-fme' or page.page == 'tools-portals' %}
+      <li class="nav-item active dropdown">
       {% else %}
-      <li class="nav-item">
+      <li class="nav-item dropdown">
       {% endif %}
-        <a class="nav-link" href="/tools.html"><i class="fas fa-tools"></i>&nbsp;Tools</a>
+        <a class="nav-link dropdown-toggle" href="/tools.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-tools"></i>&nbsp;Resources</a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="/tools-arcgis.html">ArcGIS for Developers</a>
+          <a class="dropdown-item" href="/tools-fme.html">FME Platform</a>
+          <a class="dropdown-item" href="/tools-portals.html">Data portals</a>
+        </div>
       </li>
       {% if page.page == 'about' %}
       <li class="nav-item active">
