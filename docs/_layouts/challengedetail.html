@@ -29,14 +29,22 @@
                   <a href="{{ partner.link }}">
                   {% endif %}
                   {% if partner.logo %}
-                  <img src="/images/{{ partner.logo }}" alt="{{ partner.name }}"/><br/>
+                  <img src="/images/{{ partner.logo }}" alt="{{ partner.name }}"/>
                   {% else %}
                   <span>{{ partner.name }}</span>
                   {% endif %}
                   {% if partner.link %}
                   </a>
                   {% endif %}
-                  {% if partner.title %}<span>{{ partner.title }}</span>{% endif %}
+                  {% if partner.title %}<br/><span>{{ partner.title }}</span>{% endif %}
+                  {% if partner.contacts %}
+                    <!-- >h5 class="title"><i class="far fa-comments"></i> Ask a question</h5 -->
+                    <ul class="contacts">
+                    {% for contact in partner.contacts %}
+                      {% if contact.spectrum %}<li class="spectrum-user"><a href="https://spectrum.chat/users/{{ contact.spectrum }}">@{{ contact.spectrum }}</a></li>{% endif %}
+                    {% endfor %}
+                    </ul>
+                  {% endif %}
                 </li>
               {% endfor %}
             </ul>

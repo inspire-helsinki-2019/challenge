@@ -108,7 +108,22 @@ h4 {
 
       li {
         list-style: none;
-        padding-bottom:0.5em;
+        padding-bottom:1em;
+
+        .title {
+          margin-top: 0px;
+          margin-bottom: 0px;
+          padding-left: 15px;
+          color: #723ed0;
+          font-size: 16px;
+        }
+        .contacts {
+          padding-left:25px;
+
+          li {
+            padding-bottom: 0px;
+          }
+        }
       }
       img {
         border:none;

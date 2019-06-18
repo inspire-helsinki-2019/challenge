@@ -7,6 +7,7 @@
     - name: "AELER"
       link: "https://www.aeler.com/"
     - name: "wetransform"
+      logo: "wetransform-logo.png"
       link: "https://www.wetransform.to/"
   thumbnail: "aerial-shot-building-business-2226458-thum.png"
 
@@ -25,6 +26,8 @@
     - name: "Spatineo Oy"
       logo: "spatineo-logo.png"
       link: "https://www.spatineo.com/"
+      contacts:
+        - spectrum: "ilkkarinne"
   enabled: true
 
 - title: "Let's make the most out of INSPIRE!"
@@ -34,7 +37,10 @@
   enabled: true
   partners:
     - name: "European Commission, Joint Research Centre"
-      link: "https://ec.europa.eu/info/departments/joint-research-centre_en"
+      link: "https://ec.europa.eu/jrc/en"
+      logo: "jrc-logo.png"
+      contacts:
+        - spectrum: "marcominghini"
   thumbnail: "art-big-data-blur-373543-thumb.png"
 
 - title: "Find the best seaside vacation spot"
@@ -46,4 +52,7 @@
     - name: "HELCOM (Baltic Marine Environment Protection Commission - Helsinki Commission)"
       logo: HELCOM-logo.png
       link: "http://www.helcom.fi/"
+      contacts:
+        - spectrum: "manuel-frias"
+        - spectrum: "joni-kaitaranta"
   thumbnail: "clouds-daylight-environment-462146-thumb.png"
