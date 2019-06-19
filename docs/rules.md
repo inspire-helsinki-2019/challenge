@@ -1,7 +1,7 @@
 ---
 layout: "default"
-title: "Rules - Inspire Helsinki 2019 Data Challenge"
-description: "The official rules for the Inspire Helsinki 2019 Data Challenge competition"
+title: "Awards and Rules - Inspire Helsinki 2019 Data Challenge"
+description: "Awards and the official rules for the Inspire Helsinki 2019 Data Challenge competition"
 page: "rules"
 ---
 # Prizes and awards
