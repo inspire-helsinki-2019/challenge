@@ -15,8 +15,7 @@ to answer any of your questions considering the data challenges. All the teams a
 discussions to share ideas and learn together.
 
 The **first 10 teams to sign up are eligible for one (1) 100% discount code per team for the
-[Inspire Helsinki 2019 event](https://www.inspire-helsinki-2019.fi/)** in Helsinki on 22 - 24 October (save up to 350€). After the
-signing up, the eligible team leaders receive discount codes to use when [registering](https://www.inspire-helsinki-2019.fi/register)
+[Inspire Helsinki 2019 event](https://www.inspire-helsinki-2019.fi/)** in Helsinki on 22 - 24 October (save up to 350€). The discounted tickets are only valid for the teams who have sent a written submission for their challenge work by the submission deadline. After the signing up, the eligible team leaders receive discount codes to use when [registering](https://www.inspire-helsinki-2019.fi/register)
 to the Inspire Helsinki 2019 event.
 
 Please read and accept all the [rules](/rules.html) of the Inspire Helsinki 2019 Data Challenge before signing up.
