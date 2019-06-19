@@ -4,7 +4,7 @@ title: "Open source tools - Inspire Helsinki 2019 Data Challenge"
 description: "Open source GIS tools to leverage in solving the challenges"
 page: "tools-opensource"
 sidebar:
-  content: "<a href='https://www.qgis.org/'><img src='/images/qgis-logo.png' alt='QGIS' /></a><br/><a href='https://postgis.net/'><img src='/images/postgis-logo.png' alt='PostGIS' /></a><br/><a href='https://verkosto.oskari.org/'><img src='/images/oskari-logo.png' alt='Oskari' /></a><br/><a href='http://geoserver.org/'><img src='/images/geoserver-logo.png' alt='GeoServer' /></a><br/><a href='https://mapserver.org/'><img src='/images/mapserver-logo.png' alt='MapServer' /></a><br/><a href='https://www.openstreetmap.org/'><img src='/images/osm-logo.png' alt='OpenStreetMap' /></a>"
+  content: "<a href='https://www.qgis.org/'><img src='/images/qgis-logo.png' alt='QGIS' /></a><br/><a href='https://postgis.net/'><img src='/images/postgis-logo.png' alt='PostGIS' /></a><br/><a href='https://verkosto.oskari.org/'><img src='/images/oskari-logo.png' alt='Oskari' /></a><br/><a href='http://geoserver.org/'><img src='/images/geoserver-logo.png' alt='GeoServer' /></a><br/><a href='https://mapserver.org/'><img src='/images/mapserver-logo.png' alt='MapServer' /></a><br/><a href='https://www.openstreetmap.org/'><img src='/images/osm-logo.png' alt='OpenStreetMap'/></a>"
 ---
 # Open source GIS stack
 Open source GIS stack offers a good set of GIS tools also. Here is some listed and summarised for you all - dare you to try them!
