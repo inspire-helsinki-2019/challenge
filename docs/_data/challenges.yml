@@ -5,6 +5,7 @@
   enabled: true
   partners:
     - name: "AELER"
+      logo: "aeler-logo.png"
       link: "https://www.aeler.com/"
     - name: "wetransform"
       logo: "wetransform-logo.png"
