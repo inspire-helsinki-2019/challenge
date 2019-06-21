@@ -7,23 +7,24 @@ jumbotronImage: "aerial-shot-building-business-2226458.jpg"
 ---
 
 ## Background & context
-- The challenge is about exploring the efficiency of intermodal transport in Europe.
-- The solution can have an impact on the environment, by providing people with more visibility on routes that may be more efficient in terms of fuel consumption. Consequently CO2 emission can be decreased.
-- DRDSI has been created to implement INSPIRE on data from Danube countries.
-- Water and rail transport are more efficient than road transport in terms of CO2 emissions ([Worldshipping](http://www.worldshipping.org/industry-issues/environment/air-emissions/carbon-emissions)).
-- Road transport still accounts for more than 75% of freight transport in Europe ([EC statistics](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Freight_transport_statistics_-_modal_split)).
 
-The following challenges are envisioned:
-- first, uniformization of information spread in public databases about European waterways and railways has to be explored,
-- second, a routing software would be augmented taking into account specifics of intermodal freight transport and multiple factors (such as time, cost and CO2 emissions), to allow for the visibility of data about those new routes/or other existing routes for which information is not easily accessible.
+In today's supply chain logistics, there is more and more public and political pressure to decrease the carbon footprint of freight transport. In the meantime, the exchange rate between European countries are increasing every year. Together, these two constraints   push for the development of new solutions to efficiently and ecologically plan the way goods are transported.
+
+To do so, the intermodal nature of the shipping container - that is its capacity to be transported by ships, barges, trains & trucks during the same trip - could be even more leveraged to reduce congestion and CO2 emissions.
+Water and rail transport are more ecologically efficient than road transport ([Worldshipping](http://www.worldshipping.org/industry-issues/environment/air-emissions/carbon-emissions)). Nonetheless, the latter still accounts for more than 75% of freight transport in Europe ([EC statistics](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Freight_transport_statistics_-_modal_split)).
+
+Consequently, the increased use of European waterways would represent a crucial factor to enable a greener way of carrying goods within Europe. The **Danube** represents one good example of that. Indeed, "around 10 million tons of goods are transported annually on the Austrian stretch of the Danube – without noise or congestion. This is the equivalent of a 100 kilometre-long convoy of trucks transporting goods from Vienna to Linz every day" ([ViaDonau](http://www.viadonau.org/en/economy/danube-logistics/)).
+
+In this challenge, the wide range of available data will be used to explore the efficiency of intermodal freight transport in Europe. This includes optimizing road, waterway and railway utilization based on factors such as Estimated Time of Arrival (ETA) confidence, risk, cost and CO2 emissions.
 
 ## Key issues to questions to answer/investigate
 - How can existing routes be assessed and new routes discovered that allow relying more on waterways and railways in Europe?
 - Cost function design: what are the different parameters the routing software can optimize for (examples: time, cost, fuel/CO2, risk, ETA confidence, ...)
   * Can we reroute some part of traffic to improve road fluidity? How would this increase transport efficiency?
-- How can stakeholders be incentivized to rely more on those two modes of transport compared to road?
-- Can the data structure be used in such a way that intermodal routing can be intuitively implemented? What data format would be better suited?
+- How can various datasets structures be harmonized to be used for intermodal routing?
+  * What data is missing?
 - (Secondary) Provide a tool to allow for automatic identification of high-traffic areas (cities, ports, roads,..) in which more infrastructures would be needed.
+- (Secondary) How can stakeholders be incentivized to rely more on those two modes of transport compared to road?
 
 ## Required knowledge and skills
 - Data management (database engineering skills are a plus, but not required).
@@ -32,27 +33,40 @@ The following challenges are envisioned:
 - General idea about different stakeholders involved in intermodal freight.
 
 ## Offered datasets
-- [access: public] [INSPIRE datasets](http://inspire-geoportal.ec.europa.eu/).
-- TO BE CONFIRMED [access: public] Selected subset from [Danube Reference Data and Service Infrastructure](http://drdsi.jrc.ec.europa.eu/).
-- TO BE CONFIRMED [access: public] Selected subset from [RWS](https://www.rijkswaterstaat.nl/zakelijk/open-data).
-- [access: private APIs, only for the purpose of the challenge] Real-time data collected by our IoT intermodal container.
+| Dataset name | Data portal | Access | License |
+|--------------|-------------|-----|--------|
+| INSPIRE      | [INSPIRE geoportal](http://inspire-geoportal.ec.europa.eu/) | public | various open source licenses |
+| Selected subsets European freight infrastructure | more details will be provided before the challenge starts |
+| AELER | more details will be provided before the challenge starts | private APIs | proprietary data only for the purpose of the challenge |  |
 
 ## Other relevant datasets
-- [access: public, ODbL license] OpenStreetMaps.
-- [access: public, ODbL license] [Global Roads Inventory Project](https://www.globio.info/download-grip-dataset).
-- [access: public] [Bluebook database](https://www.unece.org/trans/main/sc3/bluebook_database.html).
+| Dataset name | Data portal | Access | License | Remarks |
+|--------------|-------------|-----|--------|---------|
+| Danube infrastructure | [Danube Reference Data and Service Infrastructure](http://drdsi.jrc.ec.europa.eu/) | public | various open source licenses | It has been created to implement INSPIRE on data from Danube countries |
+| Netherlands water infrastructure | [RWS](https://www.rijkswaterstaat.nl/zakelijk/open-data) | public | various open source licenses |
+| E waterway network main standards & parameters | [Bluebook database](https://www.unece.org/trans/main/sc3/bluebook_database.html) | public |  |
+| OpenStreetMaps | [OSM](https://wiki.openstreetmap.org/wiki/Downloading_data) | public | ODbl |
+| Global Roads Inventory Project | [GRIP](https://www.globio.info/download-grip-dataset) | public | ODbl |
 
 ## Offered or suggested tools
-Open source routing software: GraphHopper, Navit, OpenSourceRoutingMachine, PyrouteLib, … (a more exhaustive list can be provided).
+Open source routing software: GraphHopper, Navit, OpenSourceRoutingMachine, PyrouteLib, etc.
 
 ## Desired outcome and presentation
-- Demo routing software -- preferred deliverable by web services.
-- Corridors discovery, with focus on waterways.
+
+Stepping onboard this challenge, you will develop an intuitive web application that helps routing goods anywhere between two points in Europe in the most efficient way, given that some people want it to be shipped fast, others securely or in the most ecological way possible. 
+
+With this exact same tool, you will be able to elaborate on the following question: *How can we make waterways and railways more competitive with respect to traditional roads?* during a live demonstration of your solution.
 
 ## Offered benefits for the teams
-* Change to present the work results in the Inspire Helsinki 2019 event (for the finalist teams).
-* Free trip to the 2020 INSPIRE Conference for one person of the winning team.
-* Set of professional cloud-based [spatial data processing and visualisation tools](./tools.html) during the Challenge.
+* All participants
+  * Set of professional cloud-based [spatial data processing and visualisation tools](./tools.html) during the Challenge.
+* All finalists
+  * Chance to present the work results in the Inspire Helsinki 2019 event.
+* First Place 
+  * Free trip to INSPIRE 2020 in Dubrovnik for one team member.
+  * High-Quality electric scooters for up to five team members (500 € value each).
+* Second Place
+  * Sport headphones for up to five team members (100 € value each).
 
 ## Contact
-Roman Heimgartner(AELER), Thorsten Reitz (wetransform)
+Roman Heimgartner (AELER), Thorsten Reitz (wetransform)
