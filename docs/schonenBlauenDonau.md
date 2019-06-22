@@ -33,13 +33,15 @@ In this challenge, the wide range of available data will be used to explore the 
 - General idea about different stakeholders involved in intermodal freight.
 
 ## Offered datasets
+
 | Dataset name | Data portal | Access | License |
 |--------------|-------------|-----|--------|
 | INSPIRE      | [INSPIRE geoportal](http://inspire-geoportal.ec.europa.eu/) | public | various open source licenses |
 | Selected subsets European freight infrastructure | more details will be provided before the challenge starts |
-| AELER | more details will be provided before the challenge starts | private APIs | proprietary data only for the purpose of the challenge |  |
+| AELER | more details will be provided before the challenge starts | private APIs | proprietary data only for the purpose of the challenge | 
 
 ## Other relevant datasets
+
 | Dataset name | Data portal | Access | License | Remarks |
 |--------------|-------------|-----|--------|---------|
 | Danube infrastructure | [Danube Reference Data and Service Infrastructure](http://drdsi.jrc.ec.europa.eu/) | public | various open source licenses | It has been created to implement INSPIRE on data from Danube countries |
@@ -53,7 +55,7 @@ Open source routing software: GraphHopper, Navit, OpenSourceRoutingMachine, Pyro
 
 ## Desired outcome and presentation
 
-Stepping onboard this challenge, you will develop an intuitive web application that helps routing goods anywhere between two points in Europe in the most efficient way, given that some people want it to be shipped fast, others securely or in the most ecological way possible. 
+Stepping onboard this challenge, you will develop an intuitive web application that helps routing goods anywhere between two points in Europe in the most efficient way, given that some people want it to be shipped fast, others securely or in the most ecological way possible.
 
 With this exact same tool, you will be able to elaborate on the following question: *How can we make waterways and railways more competitive with respect to traditional roads?* during a live demonstration of your solution.
 
@@ -62,7 +64,7 @@ With this exact same tool, you will be able to elaborate on the following questi
   * Set of professional cloud-based [spatial data processing and visualisation tools](./tools.html) during the Challenge.
 * All finalists
   * Chance to present the work results in the Inspire Helsinki 2019 event.
-* First Place 
+* First Place
   * Free trip to INSPIRE 2020 in Dubrovnik for one team member.
   * High-Quality electric scooters for up to five team members (500 € value each).
 * Second Place
