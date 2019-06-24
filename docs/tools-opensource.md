@@ -9,6 +9,9 @@ sidebar:
 # Open source GIS stack
 Open source GIS stack offers a good set of GIS tools also. Here is some listed and summarised for you all - dare you to try them!
 
+## GDAL
+[GDAL](https://gdal.org) is a translator library for [raster](https://gdal.org/drivers/raster/index.html) and [vector](https://gdal.org/drivers/vector/index.html) geospatial data formats that is released under an X/MIT style Open Source License by the Open Source Geospatial Foundation. In scope of the challenges, the [GML driven by application schemas](https://gdal.org/drivers/vector/gmlas.html) driver can resolve the complex schemas of GML formatted INSPIRE datasets and may help with converting data into some better manageable format.
+
 ## QGIS
 [QGIS](https://www.qgis.org/en/site/) is a desktop software for creating, analysing and visualising GIS datasets. You can freely download QGIS and utilise it instantly on your computer - it works with Windows, Mac, Linux... you name it. QGIS supports GDAL/OGR data formats and has the ability to connect different toolsets like SAGA GIS and GRASS. It also has various geospatial tools and over 300 different plugins designed for special analysis.
 
