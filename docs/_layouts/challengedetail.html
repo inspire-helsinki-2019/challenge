@@ -48,7 +48,16 @@
                 </li>
               {% endfor %}
             </ul>
-            <a href="/signup.html" class="btn btn-primary btn-lg">Sign up your team!</a>
+            {% if challenge.webinar %}
+            <p>
+            {% if challenge.webinar.registration %}<a href="{{challenge.webinar.registration}}" class="btn btn-primary btn-lg">{% endif %}
+              Webinar on {{challenge.webinar.time}}
+            {% if challenge.webinar.registration %}</a>{% endif %}
+            </p>
+            {% endif %}
+            <p>
+            <a href="/signup.html" class="btn btn-success btn-lg">Sign up your team!</a>
+            </p>
           </aside>
           {% endif %}
         </div>
