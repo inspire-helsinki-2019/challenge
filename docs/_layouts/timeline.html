@@ -11,7 +11,9 @@
               <ul class="timeline">
                 {% for item in site.data.timeline %}
                 {% if item.passed %}<li class="passed">{% else %}<li>{% endif %}
+                  {% if item.link %}<a href="{{ item.link }}">{% endif %}
                   <h5>{{ item.title }}</h5>
+                  {% if item.link %}</a>{% endif %}
                   <span class="float-right">{{ item.date }}</span>
                   {% if item.text %}<p>{{ item.text }}</p>{% endif %}
                 </li>
