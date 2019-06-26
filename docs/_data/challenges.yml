@@ -5,7 +5,7 @@
   enabled: true
   webinar:
     registration: https://register.gotowebinar.com/register/8869278015398386690
-    time: July 2 at 7:00 UTC
+    time: "2019-07-02 07:00 UTC" #July 2 at 07:00 UTC
   partners:
     - name: "HELCOM (Baltic Marine Environment Protection Commission - Helsinki Commission)"
       logo: HELCOM-logo.png
@@ -21,7 +21,8 @@
   summary: "Water and rail transport are more efficient than road transport in terms of CO2 emissions. Nonetheless, road transport still accounts for more than 75% of freight transport in Europe. Is there a way for European waterways and railways to be more used?"
   enabled: true
   webinar:
-      time: July 14, exact time TBD
+      time: "July 14"
+      nonexacttime: true
   partners:
     - name: "AELER"
       logo: "aeler-logo.png"
@@ -38,7 +39,7 @@
   thumbnail: "action-bicycle-buildings-763398-thumb.png"
   webinar:
     registration: https://register.gotowebinar.com/register/8966453952571301387
-    time: July 4 at 12:00 UTC
+    time: "2019-07-04 12:00 UTC"
   partners:
     - name: "Vaisala"
       logo: vaisala-logo.png
@@ -60,7 +61,7 @@
   enabled: true
   webinar:
     registration: https://ecwacs.webex.com/ecwacs/j.php?MTID=m64e9b0d28b7450b66ac81db92c02288b
-    time: July 10 14:00 UTC
+    time: "2019-07-10 14:00 UTC" #July 10 14:00 UTC
   partners:
     - name: "European Commission, Joint Research Centre"
       link: "https://ec.europa.eu/jrc/en"

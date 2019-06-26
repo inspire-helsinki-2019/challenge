@@ -14,9 +14,17 @@ See the [about](/about.html) and [awards & rules](/rules.html) pages for more in
 
 Each challenge will hold a webinar to present their challenge. Register to learn more!
 <ul>
-{% for challenge in site.data.challenges %}
+{% assign sorted_challenges = site.data.challenges | sort: "webinar.time" %}
+{% for challenge in sorted_challenges  %}
 {% if challenge.webinar %}
-<li>{{challenge.title }} - {% if challenge.webinar.registration %}<a href="{{challenge.webinar.registration}}">{% endif %}{{challenge.webinar.time}}{% if challenge.webinar.registration %}</a>{% endif %}</li>
+<li>{{challenge.title }} - {% if challenge.webinar.registration %}<a href="{{challenge.webinar.registration}}">{% endif %}
+{% if challenge.webinar.nonexacttime %}
+{{challenge.webinar.time | date:"%b %d"}}, exact time TBD
+{% else %}
+{{challenge.webinar.time | date:"%b %d at %H:%M %Z"}}
+{% endif %}
+{% if challenge.webinar.registration %}</a>{% endif %}
+</li>
 {% endif %}
 {% endfor %}
 </ul>
