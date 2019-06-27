@@ -19,9 +19,9 @@ Each challenge will hold a webinar to present their challenge. Register to learn
 {% if challenge.webinar %}
 <li>{{challenge.title }} - {% if challenge.webinar.registration %}<a href="{{challenge.webinar.registration}}">{% endif %}
 {% if challenge.webinar.nonexacttime %}
-{{challenge.webinar.time | date:"%b %d"}}, exact time TBD
+{{challenge.webinar.time | date:"%a %b %d"}}, exact time TBD
 {% else %}
-{{challenge.webinar.time | date:"%b %d at %H:%M %Z"}}
+{{challenge.webinar.time | date:"%a %b %d at %H:%M %Z"}}
 {% endif %}
 {% if challenge.webinar.registration %}</a>{% endif %}
 </li>

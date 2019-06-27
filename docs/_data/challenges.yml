@@ -21,8 +21,8 @@
   summary: "Water and rail transport are more efficient than road transport in terms of CO2 emissions. Nonetheless, road transport still accounts for more than 75% of freight transport in Europe. Is there a way for European waterways and railways to be more used?"
   enabled: true
   webinar:
-      time: "July 14"
-      nonexacttime: true
+      time: "2019-07-12 13:00 UTC"
+      registration: https://docs.google.com/forms/d/e/1FAIpQLSeTbHCZ7X7T2KjPn5x-cqL2y8B_XfdgBo-ZWEVE_XDoHhL3WQ/viewform
   partners:
     - name: "AELER"
       logo: "aeler-logo.png"
