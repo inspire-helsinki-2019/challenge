@@ -51,11 +51,11 @@
             {% if challenge.webinar %}
             <p>
             {% if challenge.webinar.registration %}<a href="{{challenge.webinar.registration}}" class="btn btn-primary btn-lg">{% endif %}
-              Webinar on {% if challenge.webinar.nonexacttime %}
+              Webinar on this challenge<br/><span style="font-size:smaller">{% if challenge.webinar.nonexacttime %}
               {{challenge.webinar.time | date:"%a %b %d"}}, exact time TBD
               {% else %}
               {{challenge.webinar.time | date:"%a %b %d at %H:%M %Z"}}
-              {% endif %}
+              {% endif %}</span>
             {% if challenge.webinar.registration %}</a>{% endif %}
             </p>
             {% endif %}
