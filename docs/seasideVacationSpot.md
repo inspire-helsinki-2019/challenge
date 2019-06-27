@@ -66,7 +66,7 @@ SYKE Open information
 You can also combine HELCOM’s data with other sources such as:
 
 - Finnish Meteorological Institute’s historical weather data
-- [Locations of undersea shipwrecks](www.hylyt.net)
+- [Locations of undersea shipwrecks](https://www.hylyt.net)
 - Copernicus Land's Urban Atlas and Imperviousness
 - Natura2000 areas/ EEA
 - Datasets of the National Board of Antiquities
