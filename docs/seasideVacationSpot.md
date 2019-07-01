@@ -26,7 +26,7 @@ For example:
 - [Input of nutrients from 40 biggest rivers](http://metadata.helcom.fi/geonetwork/srv/eng/catalog.search#/metadata/9b797dc1-8980-45a4-bf05-219e7cb5096b): Input of nutrients from rivers display the nutrient loading from the largest rivers to the Baltic
 
 ### Visibility of water (Oceanographic dataset)
-- [Visibility of water](http://metadata.helcom.fi/geonetwork/srv/eng/catalog.search#/metadata/8a6bea89-2c76-405b-bc31-e2ccb1c66239) (measured with white Secchi disk descended to water column) is measured to indicate clarity of water. Less visibility can be induced by clay turbidity, particles or algae.
+- [Visibility of water](http://metadata.helcom.fi/geonetwork/srv/eng/catalog.search#/metadata/d23979e1-0b59-45b5-8ca0-41ed8e89a742) (measured with white Secchi disk descended to water column) is measured to indicate clarity of water. Less visibility can be induced by clay turbidity, particles or algae.
 - Shapefile of historical monitoring data until 2016, parameter ”Secchi” is visibility in meters (higher visibility, more clear water)
 
 ### Algae (Chlorophyll-a, Oceanographic dataset)
