@@ -17,13 +17,13 @@ Each challenge will hold a webinar to present their challenge. Register to learn
 {% assign sorted_challenges = site.data.challenges | sort: "webinar.time" %}
 {% for challenge in sorted_challenges  %}
 {% if challenge.webinar %}
-<li>{{challenge.title }} - {% if challenge.webinar.registration %}<a href="{{challenge.webinar.registration}}">{% endif %}
+<li>{{challenge.title }} - {% if challenge.webinar.recording %}<a href="{{challenge.webinar.recording}}">{% elsif challenge.webinar.registration %}<a href="{{challenge.webinar.registration}}">{% endif %}
 {% if challenge.webinar.nonexacttime %}
 {{challenge.webinar.time | date:"%a %b %d"}}, exact time TBD
 {% else %}
 {{challenge.webinar.time | date:"%a %b %d at %H:%M %Z"}}
 {% endif %}
-{% if challenge.webinar.registration %}</a>{% endif %}
+{% if challenge.webinar.recording or challenge.webinar.registration %}</a>{% endif %}
 </li>
 {% endif %}
 {% endfor %}
