@@ -58,7 +58,7 @@
             {% if challenge.webinar %}
             <p>
             {% if challenge.webinar.embedded %}<a href="#webinar-recording" class="btn btn-primary btn-lg">Watch the webinar</a>
-            {% elseif challenge.webinar.recording %}<a href="{{challenge.webinar.recording}}" class="btn btn-primary btn-lg">Watch the webinar</a>
+            {% elsif challenge.webinar.recording %}<a href="{{challenge.webinar.recording}}" class="btn btn-primary btn-lg">Watch the webinar</a>
             {% elsif challenge.webinar.registration %}<a href="{{challenge.webinar.registration}}" class="btn btn-primary btn-lg">
               Webinar on this challenge<br/><span style="font-size:smaller">{% if challenge.webinar.nonexacttime %}
               {{challenge.webinar.time | date:"%a %b %d"}}, exact time TBD
