@@ -19,8 +19,8 @@
               {% endif %}
               {{ content }}
               {% if challenge.webinar.embedded %}
-              <h2>Watch the webinar</h2>
-              <p>Webinar held on {{challenge.webinar.time | date:"%a %b %d at %H:%M %Z"}}</p>
+              <h2 id="webinar-recording">Watch the webinar</h2>
+              <p>Webinar with more info about this challenge was held on {{challenge.webinar.time | date:"%a %b %d at %H:%M %Z"}}</p>
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe class="embed-responsive-item" src="{{challenge.webinar.embedded}}"></iframe>
               </div>
@@ -57,13 +57,14 @@
             </ul>
             {% if challenge.webinar %}
             <p>
-            {% if challenge.webinar.recording %}<a href="{{challenge.webinar.recording}}"   class="btn btn-primary btn-lg">{% elsif challenge.webinar.registration %}<a href="{{challenge.webinar.registration}}" class="btn btn-primary btn-lg">{% endif %}
+            {% if challenge.webinar.recording %}<a href="#webinar-recording" class="btn btn-primary btn-lg">Watch the webinar</a>
+            {% elsif challenge.webinar.registration %}<a href="{{challenge.webinar.registration}}" class="btn btn-primary btn-lg">
               Webinar on this challenge<br/><span style="font-size:smaller">{% if challenge.webinar.nonexacttime %}
               {{challenge.webinar.time | date:"%a %b %d"}}, exact time TBD
               {% else %}
               {{challenge.webinar.time | date:"%a %b %d at %H:%M %Z"}}
               {% endif %}</span>
-            {% if challenge.webinar.registration %}</a>{% endif %}
+            </a>{% endif %}
             </p>
             {% endif %}
             <p>
