@@ -5,6 +5,8 @@
   thumbnail: "action-bicycle-buildings-763398-thumb.png"
   webinar:
     registration: https://register.gotowebinar.com/register/8966453952571301387
+    recording: https://www.youtube.com/watch?v=NsbWlz4nwZw
+    embedded: https://www.youtube.com/embed/NsbWlz4nwZw
     time: "2019-07-04 12:00 UTC"
   partners:
     - name: "Vaisala"
