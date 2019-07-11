@@ -1,3 +1,20 @@
+- title: "By the Beautiful Blue Danube"
+  id: schonenBlauenDonau
+  headline: "Discover alternative transport routings using the European waterways and railways instead of road networks for increased efficiency and lower the CO2 emissions."
+  summary: "Water and rail transport are more efficient than road transport in terms of CO2 emissions. Nonetheless, road transport still accounts for more than 75% of freight transport in Europe. Is there a way for European waterways and railways to be more used?"
+  enabled: true
+  webinar:
+      time: "2019-07-12 13:00 UTC"
+      registration: https://docs.google.com/forms/d/e/1FAIpQLSeTbHCZ7X7T2KjPn5x-cqL2y8B_XfdgBo-ZWEVE_XDoHhL3WQ/viewform
+  partners:
+    - name: "AELER"
+      logo: "aeler-logo.png"
+      link: "https://www.aeler.com/"
+    - name: "wetransform"
+      logo: "wetransform-logo.png"
+      link: "https://www.wetransform.to/"
+  thumbnail: "aerial-shot-building-business-2226458-thum.png"
+
 - title: "Commuting 2.0"
   id: commuting20
   headline: "Make planning the day-to-day commuting safer and more pleasant for pedestrians, cyclers and other light traffic users using weather, air quality and road condition data."
@@ -56,20 +73,3 @@
         - spectrum: "manuel-frias"
         - spectrum: "joni-kaitaranta"
   thumbnail: "clouds-daylight-environment-462146-thumb.png"
-
-- title: "By the Beautiful Blue Danube"
-  id: schonenBlauenDonau
-  headline: "Discover alternative transport routings using the European waterways and railways instead of road networks for increased efficiency and lower the CO2 emissions."
-  summary: "Water and rail transport are more efficient than road transport in terms of CO2 emissions. Nonetheless, road transport still accounts for more than 75% of freight transport in Europe. Is there a way for European waterways and railways to be more used?"
-  enabled: true
-  webinar:
-      time: "2019-07-12 13:00 UTC"
-      registration: https://docs.google.com/forms/d/e/1FAIpQLSeTbHCZ7X7T2KjPn5x-cqL2y8B_XfdgBo-ZWEVE_XDoHhL3WQ/viewform
-  partners:
-    - name: "AELER"
-      logo: "aeler-logo.png"
-      link: "https://www.aeler.com/"
-    - name: "wetransform"
-      logo: "wetransform-logo.png"
-      link: "https://www.wetransform.to/"
-  thumbnail: "aerial-shot-building-business-2226458-thum.png"

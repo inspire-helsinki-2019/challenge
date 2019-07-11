@@ -19,20 +19,21 @@
 - title: "Webinar: Find the best seaside vacation spot"
   date: 2 July 2019
   link: "https://register.gotowebinar.com/register/8869278015398386690"
+  passed: true
 
 - title: "Webinar: Commuting 2.0"
   date: 4 July 2019
   link: "https://register.gotowebinar.com/register/8966453952571301387"
+  passed: true
 
 - title: "Webinar: Let's make the most out of INSPIRE!"
   date: 10 July 2019
   link: "https://ecwacs.webex.com/ecwacs/j.php?MTID=m64e9b0d28b7450b66ac81db92c02288b"
+  passed: true
 
 - title: "Webinar: By the Beautiful Blue Danube"
   date: 12 July 2019
   link: "https://docs.google.com/forms/d/e/1FAIpQLSeTbHCZ7X7T2KjPn5x-cqL2y8B_XfdgBo-ZWEVE_XDoHhL3WQ/viewform"
-
-- title: Sign up for the challenge teams closes
   date: 16 August 2019
 
 - title: Teams work with their chosen challenge
