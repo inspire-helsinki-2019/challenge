@@ -10,6 +10,7 @@ The four challenges below were selected from the proposals received for the call
 
 See the [about](/about.html) and [awards & rules](/rules.html) pages for more information.
 
+<!--
 ## Webinars
 
 Each challenge will hold a webinar to present their challenge. Register to learn more!
@@ -28,3 +29,4 @@ Each challenge will hold a webinar to present their challenge. Register to learn
 {% endif %}
 {% endfor %}
 </ul>
+-->

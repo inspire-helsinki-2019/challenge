@@ -1,3 +1,21 @@
+- title: "Find the best seaside vacation spot"
+  id: seasideVacationSpot
+  headline: "Develop solutions to find the best location for a seaside vacation depending on the interests and nature values ensuring sustainable nature of the planned activities."
+  summary: "Develop solutions to identify the best location for a seaside vacation! It’s important to remember that vacationers want different things: some might want clear waters to dive while others want conditions suitable for ice fishing. In contrast, nobody wants to be around oil spills or illegal sewage dumps. Also, the planned vacation activities must themselves follow sustainable and responsible principles regarding the environment."
+  enabled: true
+  webinar:
+    registration: https://register.gotowebinar.com/register/8869278015398386690
+    recording: https://www.youtube.com/watch?v=r1Z06Ipxt5Q
+    embedded: https://www.youtube.com/embed/r1Z06Ipxt5Q
+    time: "2019-07-02 07:00 UTC" #July 2 at 07:00 UTC
+  partners:
+    - name: "HELCOM (Baltic Marine Environment Protection Commission - Helsinki Commission)"
+      logo: HELCOM-logo.png
+      link: "http://www.helcom.fi/"
+      contacts:
+        - spectrum: "manuel-frias"
+        - spectrum: "joni-kaitaranta"
+  thumbnail: "clouds-daylight-environment-462146-thumb.png"
 - title: "By the Beautiful Blue Danube"
   id: schonenBlauenDonau
   headline: "Discover alternative transport routings using the European waterways and railways instead of road networks for increased efficiency and lower the CO2 emissions."
@@ -6,6 +24,8 @@
   webinar:
       time: "2019-07-12 13:00 UTC"
       registration: https://docs.google.com/forms/d/e/1FAIpQLSeTbHCZ7X7T2KjPn5x-cqL2y8B_XfdgBo-ZWEVE_XDoHhL3WQ/viewform
+      recording: https://www.youtube.com/watch?v=R3b6HRfvI-w
+      embedded: https://www.youtube.com/embed/R3b6HRfvI-w
   partners:
     - name: "AELER"
       logo: "aeler-logo.png"
@@ -56,22 +76,3 @@
       contacts:
         - spectrum: "marcominghini"
   thumbnail: "art-big-data-blur-373543-thumb.png"
-
-- title: "Find the best seaside vacation spot"
-  id: seasideVacationSpot
-  headline: "Develop solutions to find the best location for a seaside vacation depending on the interests and nature values ensuring sustainable nature of the planned activities."
-  summary: "Develop solutions to identify the best location for a seaside vacation! It’s important to remember that vacationers want different things: some might want clear waters to dive while others want conditions suitable for ice fishing. In contrast, nobody wants to be around oil spills or illegal sewage dumps. Also, the planned vacation activities must themselves follow sustainable and responsible principles regarding the environment."
-  enabled: true
-  webinar:
-    registration: https://register.gotowebinar.com/register/8869278015398386690
-    recording: https://www.youtube.com/watch?v=r1Z06Ipxt5Q
-    embedded: https://www.youtube.com/embed/r1Z06Ipxt5Q
-    time: "2019-07-02 07:00 UTC" #July 2 at 07:00 UTC
-  partners:
-    - name: "HELCOM (Baltic Marine Environment Protection Commission - Helsinki Commission)"
-      logo: HELCOM-logo.png
-      link: "http://www.helcom.fi/"
-      contacts:
-        - spectrum: "manuel-frias"
-        - spectrum: "joni-kaitaranta"
-  thumbnail: "clouds-daylight-environment-462146-thumb.png"
