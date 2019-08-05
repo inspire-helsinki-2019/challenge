@@ -5,6 +5,8 @@
   enabled: true
   allowedSubmissions:
     - application
+    - data analysis
+    - concept
   webinar:
     registration: https://ecwacs.webex.com/ecwacs/j.php?MTID=m64e9b0d28b7450b66ac81db92c02288b
     time: "2019-07-10 13:00 UTC" #July 10 13:00 UTC
