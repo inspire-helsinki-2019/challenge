@@ -13,10 +13,18 @@
               <div class="jumbotron">
               {% endif %}
                 <h1 class="display-4 bg-dark text-light">{{ challenge.title }}</h1>
+                <div class="submissions bg-dark text-light">
+                  <p>Accepted <a href="./rules.html#4-work-submissions">submission type(s)</a>:
+                    {% for submission in challenge.allowedSubmissions %}
+                      <span class="btn btn-primary btn-sm">{{submission}}</span>
+                    {% endfor %}
+                  </p>
+                </div>
               </div>
               {% if challenge.summary %}
               <div class="lead">{{ challenge.summary }}</div>
               {% endif %}
+
               {{ content }}
               {% if challenge.webinar.embedded %}
               <h2 id="webinar-recording">Watch the webinar</h2>

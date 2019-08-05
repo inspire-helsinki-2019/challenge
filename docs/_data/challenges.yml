@@ -3,6 +3,8 @@
   headline: "Figure out ways to improve how data is being delivered and encoded in particular use cases (e.g. building a cross-border dataset, or using a specific dataset in a particular software product)."
   summary: "This challenge targets the improved exploitation of the INSPIRE infrastructure by limiting possible inefficiencies in the way in which data are being (i) encoded and/or (ii) exposed through network services by EU Member State data providers. The starting point for the work shall be a particular use case and limitations encountered (e.g. building a cross-border dataset, or using a specific dataset in a particular software product), instead of general issues."
   enabled: true
+  allowedSubmissions:
+    - application
   webinar:
     registration: https://ecwacs.webex.com/ecwacs/j.php?MTID=m64e9b0d28b7450b66ac81db92c02288b
     time: "2019-07-10 13:00 UTC" #July 10 13:00 UTC
@@ -21,6 +23,10 @@
   headline: "Develop solutions to find the best location for a seaside vacation depending on the interests and nature values ensuring sustainable nature of the planned activities."
   summary: "Develop solutions to identify the best location for a seaside vacation! It’s important to remember that vacationers want different things: some might want clear waters to dive while others want conditions suitable for ice fishing. In contrast, nobody wants to be around oil spills or illegal sewage dumps. Also, the planned vacation activities must themselves follow sustainable and responsible principles regarding the environment."
   enabled: true
+  allowedSubmissions:
+    - application
+    - data analysis
+    - concept
   webinar:
     registration: https://register.gotowebinar.com/register/8869278015398386690
     recording: https://www.youtube.com/watch?v=r1Z06Ipxt5Q
@@ -39,6 +45,9 @@
   headline: "Discover alternative transport routings using the European waterways and railways instead of road networks for increased efficiency and lower the CO2 emissions."
   summary: "Water and rail transport are more efficient than road transport in terms of CO2 emissions. Nonetheless, road transport still accounts for more than 75% of freight transport in Europe. Is there a way for European waterways and railways to be more used?"
   enabled: true
+  allowedSubmissions:
+    - application
+    - data analysis
   webinar:
       time: "2019-07-12 13:00 UTC"
       registration: https://docs.google.com/forms/d/e/1FAIpQLSeTbHCZ7X7T2KjPn5x-cqL2y8B_XfdgBo-ZWEVE_XDoHhL3WQ/viewform
@@ -57,6 +66,8 @@
   id: commuting20
   headline: "Make planning the day-to-day commuting safer and more pleasant for pedestrians, cyclers and other light traffic users using weather, air quality and road condition data."
   summary: "Quality of life is affected greatly by our usual day to day activities and how we commute to and from our place of work plays a big part. Fortunately, this chore has been made very easy by routing apps that use data and routing algorithms to tell us how to get from A to B. However, especially for bicycles, pedestrians, and other light traffic, there is a dimension overlooked by routing applications: conditions and weather. There is a wide array of observation and forecast data about our environment that can be used to provide a great service to commuters."
+  allowedSubmissions:
+    - application
   thumbnail: "action-bicycle-buildings-763398-thumb.png"
   webinar:
     registration: https://register.gotowebinar.com/register/8966453952571301387

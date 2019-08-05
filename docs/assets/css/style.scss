@@ -83,6 +83,7 @@ h4 {
 .challenge {
   .jumbotron {
     background-color: #e6e6e6;
+    position: relative;
 
     h1 {
       border-radius: 10px;
@@ -90,12 +91,23 @@ h4 {
       opacity: 0.8;
     }
 
-    p {
-      border-radius: 10px;
-      padding: 2ex;
+    .submissions {
+      position: relative;
+      bottom: 1ex;
+      padding: 1ex;
+      border-radius: 1ex;
       opacity: 0.8;
-      text-align: justify;
+
+      p {
+        padding: 0;
+        margin: 0;
+
+        a {
+          color: white;
+        }
+      }
     }
+
   }
   .partners {
     h4 {
@@ -147,6 +159,7 @@ h4 {
     min-height: 6em;
   }
 }
+
  #footer_wrap {
    background: #ffffff;
 
@@ -246,6 +259,13 @@ h4 {
     }
     &.long {
       display:block;
+    }
+  }
+  .challenge {
+    .jumbotron {
+      .submissions {
+        position: absolute;
+      }
     }
   }
 }
