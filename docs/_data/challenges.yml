@@ -1,3 +1,29 @@
+- title: "Commuting 2.0"
+  id: commuting20
+  headline: "Make planning the day-to-day commuting safer and more pleasant for pedestrians, cyclers and other light traffic users using weather, air quality and road condition data."
+  summary: "Quality of life is affected greatly by our usual day to day activities and how we commute to and from our place of work plays a big part. Fortunately, this chore has been made very easy by routing apps that use data and routing algorithms to tell us how to get from A to B. However, especially for bicycles, pedestrians, and other light traffic, there is a dimension overlooked by routing applications: conditions and weather. There is a wide array of observation and forecast data about our environment that can be used to provide a great service to commuters."
+  allowedSubmissions:
+    - application
+  thumbnail: "action-bicycle-buildings-763398-thumb.png"
+  webinar:
+    registration: https://register.gotowebinar.com/register/8966453952571301387
+    recording: https://www.youtube.com/watch?v=NsbWlz4nwZw
+    embedded: https://www.youtube.com/embed/NsbWlz4nwZw
+    time: "2019-07-04 12:00 UTC"
+  partners:
+    - name: "Vaisala"
+      logo: vaisala-logo.png
+      link: "https://www.vaisala.com/en"
+    - name: "Finnish Meteorological Institute"
+      logo: fmi-logo.png
+      link: "https://en.ilmatieteenlaitos.fi/"
+    - name: "Spatineo Oy"
+      logo: "spatineo-logo.png"
+      link: "https://www.spatineo.com/"
+      contacts:
+        - spectrum: "ilkkarinne"
+  enabled: true
+
 - title: "Let's make the most out of INSPIRE!"
   id: mostOutOfINSPIRE
   headline: "Figure out ways to improve how data is being delivered and encoded in particular use cases (e.g. building a cross-border dataset, or using a specific dataset in a particular software product)."
@@ -63,29 +89,3 @@
       logo: "wetransform-logo.png"
       link: "https://www.wetransform.to/"
   thumbnail: "aerial-shot-building-business-2226458-thum.png"
-
-- title: "Commuting 2.0"
-  id: commuting20
-  headline: "Make planning the day-to-day commuting safer and more pleasant for pedestrians, cyclers and other light traffic users using weather, air quality and road condition data."
-  summary: "Quality of life is affected greatly by our usual day to day activities and how we commute to and from our place of work plays a big part. Fortunately, this chore has been made very easy by routing apps that use data and routing algorithms to tell us how to get from A to B. However, especially for bicycles, pedestrians, and other light traffic, there is a dimension overlooked by routing applications: conditions and weather. There is a wide array of observation and forecast data about our environment that can be used to provide a great service to commuters."
-  allowedSubmissions:
-    - application
-  thumbnail: "action-bicycle-buildings-763398-thumb.png"
-  webinar:
-    registration: https://register.gotowebinar.com/register/8966453952571301387
-    recording: https://www.youtube.com/watch?v=NsbWlz4nwZw
-    embedded: https://www.youtube.com/embed/NsbWlz4nwZw
-    time: "2019-07-04 12:00 UTC"
-  partners:
-    - name: "Vaisala"
-      logo: vaisala-logo.png
-      link: "https://www.vaisala.com/en"
-    - name: "Finnish Meteorological Institute"
-      logo: fmi-logo.png
-      link: "https://en.ilmatieteenlaitos.fi/"
-    - name: "Spatineo Oy"
-      logo: "spatineo-logo.png"
-      link: "https://www.spatineo.com/"
-      contacts:
-        - spectrum: "ilkkarinne"
-  enabled: true
