@@ -78,6 +78,21 @@ h4 {
 
 #main_content {
   padding-top: 0px;
+
+  .signupbannner {
+    h1 {
+      color: white;
+    }
+    p {
+      color: white;
+      font-weight: normal;
+    }
+    .btn {
+      background-color: #2aabe2;
+      border-color: #2aabe2;
+      font-size: 1.5rem;
+    }
+  }
 }
 
 .challenge {
