@@ -6,7 +6,8 @@ page: "signup"
 ---
 # Sign up to challenges
 Teams have to sign up in order to to participate in the Inspire Helsinki 2019 Data Challenge.
-Those who **sign up by 16 August** will benefit the most of the support from organisers and challenge partners. Signing up is possible after that deadline for some time, but the organizers cannot guarantee all perks and discounts for later ones, so please sign up as soon as possible.
+The hard deadline for the team sign up has been postponed to **Sun 8 September**. Please note that since the challenge
+work starts already on 1 September, the later a team signs up, the less of the offered benefits and support can be guaranteed.
 
 The team leader will be contacted soon after signing up for
 more info and guidance on getting your team ready. There will be an informative webinar arranged for each of the [challenges](/)

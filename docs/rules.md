@@ -28,7 +28,8 @@ and a change to present the final work in the conference.
 1. People working for the partners of a particular challenge are not allowed to be members of teams working with that challenge.
 
 ## 3. Participating to challenges
-1. Teams are obliged to [sign up](/signup.html) in order to to participate in the Inspire Helsinki 2019 Data Challenge. The sign up is opens on 3 June and is open until the registration deadline of 16 August 2019. The organisers may, but are not required to accept team registrations also after the registration deadline, but the organisers cannot guarantee all perks and discounts for the teams registering late, so please sign up as soon as possible.
+1. Teams are obliged to [sign up](/signup.html) in order to to participate in the Inspire Helsinki 2019 Data Challenge. The sign up is opens on 3 June and is open until the hard deadline of 8 September 2019. Please note that since the challenge
+work starts already on 1 September, the later a team signs up, the less of the offered benefits and support can be guaranteed.
 1. The number of the team members as well as their email addresses are asked on the sign up form. The teams may change or add members at any point before or during the challenge, and the written submission should have the names of all the contributing team members.
 1. The [data challenges](/) the teams set to solve are presented at the Inspire Helsinki 2019 Data Challenge website and they have been written in a way to be solvable by capable teams of around 2-6 members. The teams do not have to pick their final challenge at the sign up time, but each team may only submit their work to one of the challenges.
 1. It's required to keep the challenge organisers up-to-date on the possible changes of the team leader, so that we always know how to contact the team.

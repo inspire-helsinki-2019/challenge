@@ -8,7 +8,9 @@ page: "challenges"
 
 The four challenges below were selected from the proposals received for the call for challenges. [Sign up](./signup.html) your team to solve one of these challenges during September 2019. The winners are awarded at the [Inspire Helsinki 2019](https://www.inspire-helsinki-2019.fi/) event in October.
 
-The challenge organisers and the partners support the teams with provided data, tools and services to ensure successful results. Those who **sign up by 16 August will benefit the most**. Signing up is possible after that deadline for some time, but the organizers cannot guarantee all perks and discounts for later ones, so please sign up as soon as possible.
+The challenge organisers and the partners support the teams with provided data, tools and services to ensure successful
+results. The hard deadline for the team sign up has been postponed to **Sun 8 September**. Please note that since the challenge
+work starts already on 1 September, the later a team signs up, the less of the offered benefits and support can be guaranteed.
 
 See the [about](/about.html) and [awards & rules](/rules.html) pages for more information.
 
