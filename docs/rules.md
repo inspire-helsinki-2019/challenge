@@ -10,7 +10,7 @@ The judges of each challenge choose both the teams for the final and, after the 
 and a change to present the final work in the conference.
 * The first 10 teams to sign up are eligible for one (1) 100% discount code per team for the
 [Inspire Helsinki 2019 event](https://www.inspire-helsinki-2019.fi/) in Helsinki on 22 - 24 October (save up to 350€). The discounted tickets are only valid for the teams who have sent a written submission for their challenge work by the submission deadline.
-* Up to 10 teams can receive reimbursements for travel and accommodation to Helsinki (one person per team) - for more information, contact the organisers.
+* Up to 10 teams attending the Inspire Helsinki 2019 event can receive reimbursements for travel inside Europe and for accommodation in Helsinki (one person per team) - for more information, contact the organisers.
 * [Safe Software](https://www.safe.com/) and [con terra GmbH](https://conterra.de/) will award the best utilisation of the FME tools to solve one of the data challenges with a special FME Award. The FME Award will include free registration for the Safe Software’s next international [FME 2020 User Conference](https://www.safe.com/fmeuc/) in Vancouver and next con terra FMEDays.
 * There may also be other special awards for the top ranked teams, more details will be announced later.
 
