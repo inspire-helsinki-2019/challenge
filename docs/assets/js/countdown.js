@@ -21,6 +21,8 @@ $(function() {
         $(".minutes").html(minutes + "<span>min</span>");
         $(".seconds").html(seconds + "<span>sec</span>");
     }
-    makeTimer();
-    setInterval(function() { makeTimer(); }, 1000);
+    if ($("#countdown").length) {
+      makeTimer();
+      setInterval(function() { makeTimer(); }, 1000);
+    }
 });
