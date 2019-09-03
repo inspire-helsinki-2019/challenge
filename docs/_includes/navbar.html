@@ -7,14 +7,14 @@
 
   <div class="collapse navbar-collapse justify-content-stretch" id="navbarSupportedContent">
     <ul class="navbar-nav">
-      {% if page.page == 'challenges' or page.page == 'commuting20' or page.page == 'mostOutOfINSPIRE' or page.page == 'schonenBlauenDonau' or page.page == 'seasideVacationSpot'%}
+      {% if page.page == 'timeline' or page.page == 'commuting20' or page.page == 'mostOutOfINSPIRE' or page.page == 'schonenBlauenDonau' or page.page == 'seasideVacationSpot'%}
       <li class="nav-item active dropdown">
       {% else %}
       <li class="nav-item dropdown">
       {% endif %}
         <a class="nav-link dropdown-toggle" href="/" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-lightbulb"></i>&nbsp;Challenges</a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="/">Overview</a>
+          <a class="dropdown-item" href="/">Timeline</a>
           <div class="dropdown-divider"></div>
           {% for challenge in site.data.challenges %}
             {% if challenge.enabled %}
@@ -23,19 +23,12 @@
           {% endfor %}
         </div>
       </li>
-      {% if page.page == 'rules' %}
-      <li class="nav-item active">
-      {% else %}
-      <li class="nav-item">
-      {% endif %}
-        <a class="nav-link" href="/rules.html"><i class="fas fa-file-alt"></i>&nbsp;Awards&nbsp;&amp;&nbsp;rules</a>
-      </li>
       {% if page.page == 'signup' %}
       <li class="nav-item active">
       {% else %}
       <li class="nav-item">
       {% endif %}
-        <a class="nav-link" href="/signup.html"><i class="fas fa-sign-in-alt"></i>&nbsp;Sign up</a>
+        <a class="nav-link" href="/signup.html"><i class="fas fa-sign-in-alt"></i>&nbsp;Sign&nbsp;up</a>
       </li>
       {% if page.page == 'tools' or page.page == 'tools-arcgis' or page.page == 'tools-fme' or page.page == 'tools-opensource' or page.page == 'tools-portals' %}
       <li class="nav-item active dropdown">
@@ -49,6 +42,13 @@
           <a class="dropdown-item" href="/tools-opensource.html">Open source GIS stack</a>
           <a class="dropdown-item" href="/tools-portals.html">Data portals</a>
         </div>
+      </li>
+      {% if page.page == 'rules' %}
+      <li class="nav-item active">
+      {% else %}
+      <li class="nav-item">
+      {% endif %}
+        <a class="nav-link" href="/rules.html"><i class="fas fa-file-alt"></i>&nbsp;Awards&nbsp;&amp;&nbsp;rules</a>
       </li>
       {% if page.page == 'about' %}
       <li class="nav-item active">
@@ -65,16 +65,6 @@
       <li class="nav-item">
         <a class="nav-link" href="https://www.inspire-helsinki-2019.fi/"><i class="fas fa-handshake"></i>&nbsp;Inspire Helsinki 2019 event</a>
       </li>
-      <!--
-      <li class="nav-item">
-        <a class="nav-link" href="https://github.com/inspire-helsinki-2019/challenge"><i class="fab fa-github"></i>&nbsp;Code</a>
-      </li>
-      -->
-      <!--
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-      </li>
-      -->
     </ul>
   </div>
 </nav>

@@ -1,0 +1,38 @@
+{% include header.html %}
+    {% include navbar.html %}
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <div class="jumbotron signupbannner" style="background-image: url('/images/advice-advise-advisor-7097.jpg');background-size: cover;">
+          <h1 class="display-4">Go, create!</h1>
+          <div class="timer">
+            <span class="days"></span>
+            <span class="hours"></span>
+            <span class="minutes"></span>
+            <span class="seconds"></span>
+          </div>
+          <p class="lead2">until the team submission deadline</p>
+        </div>
+        {{ content }}
+        <div class="container mt-3 mb-5">
+          <div class="row">
+            <div class="col-md-9">
+              <h4>Timeline</h4>
+              <ul class="timeline">
+                {% for item in site.data.timeline %}
+                {% if item.passed %}<li class="passed">{% else %}<li>{% endif %}
+                  {% if item.link %}<a href="{{ item.link }}">{% endif %}
+                  <h5>{{ item.title }}</h5>
+                  {% if item.link %}</a>{% endif %}
+                  <span class="float-right">{{ item.date }}</span>
+                  {% if item.text %}<p>{{ item.text }}</p>{% endif %}
+                </li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+{% include footer.html %}

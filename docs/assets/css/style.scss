@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Abel&display=swap');
 @mixin imgRetina($image, $extension, $width, $position: center, $repeat: no-repeat) {
      background-image: url($image + '.' + $extension);
      background-repeat: $repeat;
@@ -78,8 +79,30 @@ h4 {
 
 #main_content {
   padding-top: 0px;
-
   .signupbannner {
+    text-align: center;
+    .lead2 {
+      font-size:2.5rem;
+    }
+    .timer {
+      font-family: 'Abel', cursive;
+      color: white;
+      .days {
+        font-size: 5rem;
+      }
+      .hours {
+        font-size: 5rem;
+        padding-left: 0.3em;
+      }
+      .minutes {
+        font-size: 5rem;
+        padding-left: 0.3em;
+      }
+      .seconds {
+        font-size: 3rem;
+        padding-left: 0.3em;
+      }
+    }
     h1 {
       color: white;
     }
@@ -122,7 +145,6 @@ h4 {
         }
       }
     }
-
   }
   .partners {
     h4 {

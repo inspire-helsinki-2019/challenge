@@ -10,7 +10,7 @@ The hard deadline for the team sign up has been postponed to **Sun 8 September**
 work starts already on 1 September, the later a team signs up, the less of the offered benefits and support can be guaranteed.
 
 The team leader will be contacted soon after signing up for
-more info and guidance on getting your team ready. There will be an informative webinar arranged for each of the [challenges](/)
+more info and guidance on getting your team ready. There will be an informative webinar arranged for each of the [challenges](/challenges.html)
 before the sign up closes. Everyone is welcome to join these webinars, and all signed up teams will be automatically invited.
 
 The challenge organisers and partners will be available in [Spectrum discussion forum](https://spectrum.chat/inspire-helsinki)
