@@ -41,10 +41,15 @@
   date: 1 September 2019
   passed: true
 
-- title: "Sign up deadline for the Challenge Teams"
-  date: 22 September 2019
-  text: "Note: the later a team signs up, the less of the offered benefits and support can be guaranteed."
-  link: /signup.html
+- title: "Webinar: ArcGIS for Developers: Quick Start"
+  date: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Webinar%3AArcGIS+for+Developers%3A+Quick+Start&iso=20190905T1530&p1=101&ah=1">5 September 2019 at 14:30 - 15:30 CEST</a>
+  text: Introduction to the ArcGIS for Developers toolset available for the Inspire Helsinki 2019 Data Challenge teams. Webinar held by Esri.
+  link: https://attendee.gotowebinar.com/register/4222239401069368833
+
+- title: Data Challenge Launch webinar
+  date: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Inspire+Helsinki+2019+Data+Challenge+Lauch&iso=20190910T14&p1=101&ah=1&am=30">10 September 2019 at 13:00 - 14:30 CEST</a>
+  text: Welcome to participate in a webinar on practical issues about Data Challenges of Inspire Helsinki 2019 event. The webinar will be held by Sampo Savolainen from Spatineo.
+  link: https://ucc.vy-verkko.fi/maanmittauslaitos/meet/hanna.horppila/NHZF3067
 
 - title: Most out of INSPIRE, status + Q&A meeting
   date: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Let%27s+make+the+most+out+of+INSPIRE%21%2C+mid-term+team+meeting&iso=20190916T14&p1=157&ah=2">16 September at 14:00 CEST</a>
@@ -63,8 +68,13 @@
   date: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=By+the+Beautiful+Blue+Danube%2C+mid-term+team+meeting&iso=20190917T13&p1=945&ah=2">17 September at 13:00 CEST</a>
   text: Quick status updates of all the teams and Q&A with the Aeler and wetransform partner team.
 
+- title: "Sign up deadline for the Challenge Teams"
+  date: 22 September 2019
+  text: "Note: the later a team signs up, the less of the offered benefits and support can be guaranteed."
+  link: /signup.html
+
 - title: Deadline for the challenge team result written submissions
-  date: 6 October 2019 at 16:00 CET
+  date: 6 October 2019 at 16:00 CEST
 
 - title: Selection of the finalist teams
   date: Mid October 2019
