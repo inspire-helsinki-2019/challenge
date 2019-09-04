@@ -28,7 +28,7 @@ and a change to present the final work in the conference.
 1. People working for the partners of a particular challenge are not allowed to be members of teams working with that challenge.
 
 ## 3. Participating to challenges
-1. Teams are obliged to [sign up](/signup.html) in order to to participate in the Inspire Helsinki 2019 Data Challenge. The sign up is opens on 3 June and is open until the hard deadline of 8 September 2019. Please note that since the challenge
+1. Teams are obliged to [sign up](/signup.html) in order to to participate in the Inspire Helsinki 2019 Data Challenge. The sign up is opens on 3 June and is open until the hard deadline of 22 September 2019. Please note that since the challenge
 work starts already on 1 September, the later a team signs up, the less of the offered benefits and support can be guaranteed.
 1. The number of the team members as well as their email addresses are asked on the sign up form. The teams may change or add members at any point before or during the challenge, and the written submission should have the names of all the contributing team members.
 1. The [data challenges](/.challenges.html) the teams set to solve are presented at the Inspire Helsinki 2019 Data Challenge website and they have been written in a way to be solvable by capable teams of around 2-6 members. The teams do not have to pick their final challenge at the sign up time, but each team may only submit their work to one of the challenges.
@@ -40,7 +40,7 @@ work starts already on 1 September, the later a team signs up, the less of the o
    * **Concept**: a justified idea with a preliminary implementation plan for a new application, service or dataset.
    * **Working application**: a working prototype of a new web or mobile application.
    * **Data analysis**: a description and the results of a novel way to analyse existing data to answer the questions of the challenge.
-1. The teams are obligated to send a written online submission of their work by **submission deadline on 30 September at 16:00 CEST**. Only the teams with a valid written submission sent by the deadline will be considered for the selection to the challenge finals held during the Inspire Helsinki 2019 event on 22 - 24 October 2019. Instructions for sending the submissions will be provided on the Inspire Helsinki 2019 Data Challenge website.
+1. The teams are obligated to send a written online submission of their work by **submission deadline on 6 October at 16:00 CET**. Only the teams with a valid written submission sent by the deadline will be considered for the selection to the challenge finals held during the Inspire Helsinki 2019 event on 22 - 24 October 2019. Instructions for sending the submissions will be provided on the Inspire Helsinki 2019 Data Challenge website.
 1. The organisers and the challenge partners evaluate the written submissions and choose the teams for the finals. During the finals at the Inspire Helsinki 2019 event the winners of each challenge as well as any other awards will be chosen based on both the original written submissions and the oral presentations held during the event. **At least one member of each team has to be prepared to present their work** in the Inspire Helsinki 2019 event either in person or remotely.
 
 ## 5. Evaluation criterial for the submissions

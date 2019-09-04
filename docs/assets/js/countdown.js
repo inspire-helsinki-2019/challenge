@@ -1,6 +1,6 @@
 $(function() {
   function makeTimer() {
-        var endTime = new Date("2019-09-30T16:00:00+02:00");
+        var endTime = new Date("2019-10-06T16:00:00+02:00");
         endTime = (Date.parse(endTime) / 1000);
 
         var now = new Date();
