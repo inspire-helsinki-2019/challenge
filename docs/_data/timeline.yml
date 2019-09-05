@@ -45,6 +45,7 @@
   date: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Webinar%3AArcGIS+for+Developers%3A+Quick+Start&iso=20190905T1530&p1=101&ah=1">5 September 2019 at 14:30 - 15:30 CEST</a>
   text: Introduction to the ArcGIS for Developers toolset available for the Inspire Helsinki 2019 Data Challenge teams. Webinar held by Esri.
   link: https://attendee.gotowebinar.com/register/4222239401069368833
+  passed: true
 
 - title: Data Challenge Launch webinar
   date: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Inspire+Helsinki+2019+Data+Challenge+Lauch&iso=20190910T14&p1=101&ah=1&am=30">10 September 2019 at 13:00 - 14:30 CEST</a>
