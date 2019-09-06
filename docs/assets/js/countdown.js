@@ -1,4 +1,12 @@
 $(function() {
+  function formatUnit(base, value) {
+    var retval = "<span>" + base;
+    if (value > 1) {
+      retval += "s";
+    }
+    return retval + "</span>";
+  }
+
   function makeTimer() {
         var endTime = new Date("2019-10-06T16:00:00+02:00");
         endTime = (Date.parse(endTime) / 1000);
@@ -12,14 +20,10 @@ $(function() {
         var minutes = Math.floor((timeLeft - (days * 86400) - (hours * 3600 )) / 60);
         var seconds = Math.floor((timeLeft - (days * 86400) - (hours * 3600) - (minutes * 60)));
 
-        if (hours < "10") { hours = "0" + hours; }
-        if (minutes < "10") { minutes = "0" + minutes; }
-        if (seconds < "10") { seconds = "0" + seconds; }
-
-        $(".days").html(days + "<span>days</span>");
-        $(".hours").html(hours + "<span>hrs</span>");
-        $(".minutes").html(minutes + "<span>min</span>");
-        $(".seconds").html(seconds + "<span>sec</span>");
+        $(".days").html(days + formatUnit("day", days));
+        $(".hours").html(hours + formatUnit("hr", hours));
+        $(".minutes").html(minutes + formatUnit("min", minutes));
+        $(".seconds").html(seconds + formatUnit("sec", seconds));
     }
     if ($("#countdown").length) {
       makeTimer();
