@@ -1,5 +1,5 @@
 ---
-layout: "front_counter"
+layout: "default"
 title: "About - Inspire Helsinki 2019 Data Challenge"
 description: "Inspire Helsinki 2019 event hosts challenges for practical uses of spatial data in the domains of sea, weather and cities."
 page: "about"
