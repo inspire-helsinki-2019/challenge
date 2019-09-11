@@ -268,10 +268,6 @@ h4 {
             &:before {
               border: 3px solid #c1c1c1;
             }
-
-            h5 {
-              color: #6f6f6f;
-            }
             p {
               color: #949090
             }
@@ -281,17 +277,23 @@ h4 {
          }
 
         h5 {
-          color: #007bff;
+          color: #6f6f6f;
           font-size: 1rem;
-          font-weight: normal;
+          font-weight: bold;
           display: inline;
+        }
+        a {
+          h5 {
+            color: #3d8ce0;
+          }
         }
         p {
           margin-top: 0px;
         }
 
         span {
-          color: #007bff;
+          color: #3d8ce0;
+          margin-bottom: 1em;
         }
     }
 }
