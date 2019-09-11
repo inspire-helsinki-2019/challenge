@@ -34,7 +34,6 @@
 - title: "Webinar: By the Beautiful Blue Danube"
   date: 12 July 2019
   link: https://www.youtube.com/watch?v=R3b6HRfvI-w
-  date: 12 July 2019
   passed: true
 
 - title: Teams start working  with their chosen challenge
@@ -42,15 +41,13 @@
   passed: true
 
 - title: "Webinar: ArcGIS for Developers: Quick Start"
-  date: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Webinar%3AArcGIS+for+Developers%3A+Quick+Start&iso=20190905T1530&p1=101&ah=1">5 September 2019 at 14:30 - 15:30 CEST</a>
-  text: Introduction to the ArcGIS for Developers toolset available for the Inspire Helsinki 2019 Data Challenge teams. Webinar held by Esri.
-  link: https://attendee.gotowebinar.com/register/4222239401069368833
+  date: 5 September 2019
   passed: true
 
 - title: Data Challenge Launch webinar
-  date: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Inspire+Helsinki+2019+Data+Challenge+Lauch&iso=20190910T14&p1=101&ah=1&am=30">10 September 2019 at 13:00 - 14:30 CEST</a>
-  text: Welcome to participate in a webinar on practical issues about Data Challenges of Inspire Helsinki 2019 event. The webinar will be held by Sampo Savolainen from Spatineo.
-  link: https://ucc.vy-verkko.fi/maanmittauslaitos/meet/hanna.horppila/NHZF3067
+  date: 10 September 2019
+  link: https://www.youtube.com/watch?v=KzuaqJ7gImg
+  passed: true
 
 - title: Most out of INSPIRE, status + Q&A meeting
   date: <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Let%27s+make+the+most+out+of+INSPIRE%21%2C+mid-term+team+meeting&iso=20190916T14&p1=157&ah=2">16 September at 14:00 CEST</a>
