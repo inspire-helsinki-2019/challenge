@@ -40,7 +40,7 @@ work starts already on 1 September, the later a team signs up, the less of the o
    * **Concept**: a justified idea with a preliminary implementation plan for a new application, service or dataset.
    * **Working application**: a working prototype of a new web or mobile application.
    * **Data analysis**: a description and the results of a novel way to analyse existing data to answer the questions of the challenge.
-1. The teams are obligated to send a written online submission of their work by **submission deadline on 6 October at 16:00 CEST**. Only the teams with a valid written submission sent by the deadline will be considered for the selection to the challenge finals held during the Inspire Helsinki 2019 event on 22 - 24 October 2019. Instructions for sending the submissions will be provided on the Inspire Helsinki 2019 Data Challenge website.
+1. The teams are obligated to send a written online submission of their work by **submission deadline on 6 October at 23:59 CEST**. Only the teams with a valid written submission sent by the deadline will be considered for the selection to the challenge finals held during the Inspire Helsinki 2019 event on 22 - 24 October 2019. Instructions for sending the submissions are provided on the Inspire Helsinki 2019 Data Challenge [website](/submissions.html).
 1. The organisers and the challenge partners evaluate the written submissions and choose the teams for the finals. During the finals at the Inspire Helsinki 2019 event the winners of each challenge as well as any other awards will be chosen based on both the original written submissions and the oral presentations held during the event. **At least one member of each team has to be prepared to present their work** in the Inspire Helsinki 2019 event either in person or remotely.
 
 ## 5. Evaluation criterial for the submissions
@@ -49,7 +49,7 @@ work starts already on 1 September, the later a team signs up, the less of the o
 * **Potential** - how much potential does the submission have to make an impact in the world, for instance by improving the quality of life, making data more valuable to society or growing businesses.
 * **Creativity** – how creative is the submission: is it a trailblazing new innovation or reinvention of well-known concepts.
 * **Presentation** – how well is the work presented, both in written and spoken word as well as in possible graphics or user interfaces.
-1. Both the written submissions and the oral presentation are evaluated by the judges consisting of the challenge organisers and the challenge partners for the particular challenge. The names and the affiliations of the judges for each challenge will be announced before the submission deadline.
+1. Both the written submissions and the oral presentation are evaluated by the judges consisting of the challenge organisers and the challenge partners for the particular challenge.
 
 ## 6. Intellectual property rights
 1. All intellectual property rights to the submitted work remains with the submitting team.
