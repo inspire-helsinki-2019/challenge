@@ -13,7 +13,7 @@ page: "submissions"
 1. Submission info including:
    * The name of the submitted work;
    * The name of one of the four challenges which the work is solving;
-   * Category of the submission: one of "concept", "working application" or "data analysis" as described on the [rules](/rules.html) page;
+   * Category of the submission: one of "concept", "working application" or "data analysis" as described on the [rules](/rules.html#4-work-submissions) page;
    * Full name and email address of the team contact person;
    * Names or nick names of all contributing the team members;
    * Full name, email address and phone number of the team member(s) prepared to present the submitted work in the Inspire Helsinki 2019 event on 23 October 2019 in Helsinki, and whether these person(s) are joining the event in person to present or willing to present remotely;
