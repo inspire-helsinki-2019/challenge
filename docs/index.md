@@ -1,11 +1,11 @@
 ---
 layout: "front_counter"
-title: "Timeline - Inspire Helsinki 2019 Data Challenge"
+title: "Inspire Helsinki 2019 Data Challenge"
 description: "Beat the other teams on a Data Challenge of your choosing in September 2019"
 page: "timeline"
 ---
 The Inspire Helsinki 2019 Data Challenge is now in progress. The teams started working on their chosen
-challenge on 1st September 2019 and have until 6 October to send their written submission.
+challenge on 1st September 2019 and have until 6 October to send their written [submission](/submissions.html).
 
 Check out the [Data Challenge Spectrum chat space](https://spectrum.chat/inspire-helsinki) to see what's happening right now.
 
