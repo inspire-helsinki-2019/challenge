@@ -13,4 +13,4 @@ Teams with the best submissions are invited to present their work at the
 [Inspire Helsinki 2019 event](https://inspire-helsinki-2019.fi/) in Helsinki on 22-24 October, where the judges also
 [award](/rules.html) the winning teams.
 
-The Challenge Kickoff webinar slides are available on [Slideshare](https://www.slideshare.net/InspireHelsinki2019/inspire-helsinki-2019-data-challenge-launch-webinar) and a recording of the webinar is on [YouTube](https://www.youtube.com/watch?v=KzuaqJ7gImg).
+[The Challenge Kickoff webinar slides](https://www.slideshare.net/InspireHelsinki2019/inspire-helsinki-2019-data-challenge-launch-webinar) are available on Slideshare and a [recording of the webinar](https://www.youtube.com/watch?v=KzuaqJ7gImg) is on YouTube.
