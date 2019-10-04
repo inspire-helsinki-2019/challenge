@@ -8,7 +8,7 @@ page: "submissions"
 
  The challenge teams are send a written online submission of their work to the challenge organisers for evaluation. Only the teams with a written submission made according the instructions given on this page, and sent by the submission deadline will be considered for the selection to the challenge finals held during the Inspire Helsinki 2019 event on 22 - 24 October 2019.
 
- The written submission shall be submitted by sending an email by **[6 October at 23:59 CEST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Inspire+Helsinki+2019+Data+Challenge+submission+deadline&iso=20191006T2359&p1=48)** to address <span style="white-space: nowrap">**inspire-helsinki2019@nls.fi**</span>.
+ The written submission shall be submitted by sending an email by **[7 October at 09:00 CEST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Inspire+Helsinki+2019+Data+Challenge+submission+deadline&iso=20191007T0900&p1=48)** to address <span style="white-space: nowrap">**inspire-helsinki2019@nls.fi**</span>.
 
 Please include all of the following information in the email:
 1. The following submission information:

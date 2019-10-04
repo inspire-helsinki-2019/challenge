@@ -1,6 +1,6 @@
 $(function() {
   var _state = {
-    endTime: (new Date("2019-10-06T23:59:00+02:00")).getTime(),
+    endTime: (new Date("2019-10-07T09:00:00+02:00")).getTime(),
     pendingOffset: 0,
     lastTick: Date.now(),
     now: Date.now()
