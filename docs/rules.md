@@ -15,7 +15,7 @@ and a change to present the final work in the conference.
    * First place: High quality electric scooters for up to five team members (500 € value each).
    * Second place: Sport headphones for up to five team members (100 € value each).
 * For the "Find the best seaside vacation spot" challenge only: All teams that submit a response to the challenge will get a HELCOM gift package for the entire team.
-* For teams using FME: [Safe Software](https://www.safe.com/) and [con terra GmbH](https://conterra.de/) will award the best utilisation of the FME tools to solve one of the data challenges with a special FME Award. The FME Award will include free registration for the Safe Software’s next international [FME 2020 User Conference](https://www.safe.com/fmeuc/) in Vancouver and next con terra FMEDays.
+* For teams using FME: [Safe Software](https://www.safe.com/) and [con terra GmbH](https://conterra.de/) will award the best utilisation of the FME tools to solve one of the data challenges with a special FME Award. The FME Award will include free registration for the Safe Software’s next international [FME 2020 User Conference](https://www.safe.com/fmeuc/) in Vancouver and next con terra [FMEdays](https://www.con-terra.com/fmedays).
 * There may also be other special awards for the top ranked teams, more details will be announced later.
 
 # Inspire Helsinki 2019 Data Challenge Rules
