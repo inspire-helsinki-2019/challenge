@@ -1,10 +1,12 @@
 ---
-layout: "challengecards"
+layout: "default"
 title: "Inspire Helsinki 2019 Data Challenge"
 description: "Thanks to all participants"
 page: "timeline"
 ---
 # The challenge is over, big thanks to all participants!
+
+![Happy winners](images/challenge_winners.jpg "Challenge winners")
 
 Winner teams of Inspire Helsinki 2019 Data challenges:
 
