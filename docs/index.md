@@ -1,16 +1,20 @@
 ---
 layout: "challengecards"
 title: "Inspire Helsinki 2019 Data Challenge"
-description: "Beat the other teams on a Data Challenge of your choosing in September 2019"
+description: "Thanks to all participants"
 page: "timeline"
 ---
-The Inspire Helsinki 2019 Data Challenge submission deadline has passed. The teams started working on their chosen
-challenge on 1st September 2019 and had until the morning of 7 October to send their written [submission](/submissions.html).
+# The challenge is over, big thanks to all participants!
 
-Check out the [Data Challenge Spectrum chat space](https://spectrum.chat/inspire-helsinki) to see what's happening right now.
+Winner teams of Inspire Helsinki 2019 Data challenges:
 
-Teams with the best submissions are invited to present their work at the
-[Inspire Helsinki 2019 event](https://inspire-helsinki-2019.fi/) in Helsinki on 22-24 October, where the judges also
-[award](/rules.html) the winning teams.
+* 1st place: **Team Minerva Intelligence**: [A Landslide Application In Veneto, Italy](https://map.italy.minervageohazards.com) for challenge [Let's make most out of INSPIRE](./mostOutOfINSPIRE.html)
+* 2nd place: **Team West Coast Surfers**: [Flood Warning Assistant](https://safe-inspire.s3.eu-west-2.amazonaws.com/datachallenge/www/index.html) for challenge [Let's make most out of INSPIRE](./mostOutOfINSPIRE.html)
+* 3rd place: **Team Statistics Finland**: [Finding the Best
+Seaside Vacation Spot](https://storymaps.arcgis.com/stories/8db3937801df4a028189f01290cfad41) for challenge [Find the best seaside vacation spot](./seasideVacationSpot.html)
+* FME Special Prize winner: **Team Better Wet from Sweat** for challenge [Commuting 2.0](./commuting20.html)
+* Esri Special Prize winners: 1st Team Better Wet From Sweat, 2nd Team Statistics Finland
 
-[The Challenge Kickoff webinar slides](https://www.slideshare.net/InspireHelsinki2019/inspire-helsinki-2019-data-challenge-launch-webinar) are available on Slideshare and a [recording of the webinar](https://www.youtube.com/watch?v=KzuaqJ7gImg) is on YouTube.
+Full details of all the submitted works will be made available on this website soon.
+
+Congratulations to winners and all the teams and see you in Dubrovnik 2020!
